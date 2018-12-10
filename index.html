@@ -48,6 +48,29 @@
 	li{
 	 	margin: 3pt 0;
 	}
+
+	.collapsible {
+	  background-color: #FFF;
+	  color: black;
+	  cursor: pointer;
+	  padding: 2px;
+	  width: 100%;
+	  border: none;
+	  text-align: left;
+	  outline: none;
+	  font-size: 15px;
+	}
+
+	.collapsible-active, .collapsible:hover {
+	  background-color: #EEE;
+	}
+
+	.expansion {
+	  padding: 3px 6px;
+	  max-height: 0;
+	  overflow: hidden;
+	  transition: max-height 0.2s ease-out;
+	}
 	</style>
 </head>
 <body>
@@ -74,14 +97,15 @@
 				<li><b><a href="http://en.diveintodeeplearning.org" target="_blank">English Version</a></b></li>
 				<li><b><a href="http://zh.diveintodeeplearning.org" target="_blank">Chinese Version</a></b></li>
 					<ul>
-					<li><i><a href="http://www.cs.cmu.edu/~muli/" target="_blank">Dr. Mu Li</a> and I co-instructed 19 weekly lectures. Recordings are on <a href="https://space.bilibili.com/209599371#/" target="_blank"> Bilibili</a> (B) and <a href="https://www.youtube.com/channel/UCjeLwTKPMlDt2segkZzw2ZQ" target="_blank">Youtube</a> (Y).</i></li>
+					<button class="collapsible"><li><i><a href="http://www.cs.cmu.edu/~muli/" target="_blank">Dr. Mu Li</a> and I co-instructed 19 weekly lectures. Recordings are on <a href="https://space.bilibili.com/209599371#/" target="_blank"> Bilibili</a> (B) and <a href="https://www.youtube.com/channel/UCjeLwTKPMlDt2segkZzw2ZQ" target="_blank">Youtube</a> (Y).</i> [Click to expand]</li></button>
+                    <div class="expansion">
 					<ul>
 						<li>Lecture 1: Introduction, Data Manipulation, Regression, and Classification. [<a href="https://www.bilibili.com/video/av14327359/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=kGktiYF5upk&t=3214s" target="_blank">Y</a>]</li>
 						<li>Lecture 2: Using GPU, Overfitting, Multilayer Perceptron, and Convolutional Neural Networks. [<a href="https://www.bilibili.com/video/av14541414/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=x9u4kZvI2ew&t=6530s" target="_blank">Y</a>]</li>
 						<li>Lecture 3: AlexNet, VGG, Deep Learning Computing, and Choosing GPU. [<a href="https://www.bilibili.com/video/av14721694/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=MkQfiM3F7vY&t=4478s" target="_blank">Y</a>]</li>
 						<li>Lecture 4: Batch Normalization, NetInNet, GoogLeNet, ResNet, DenseNet, and Data Augmentation. [<a href="https://www.bilibili.com/video/av15405597/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=KnmvCqD9yH8&t=3111s" target="_blank">Y</a>]</li>
 						<li>Lecture 5: Computational Performance and Optimization (Gradient Descent and SGD). [<a href="https://www.bilibili.com/video/av15592207/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=rt7lOAwcris" target="_blank">Y</a>]</li>
-						<li>Lecture 6: Transfer Learning and Optimization (Momentum, Adagrad, RMSProp, Adadelta, and Adam). [<a href="https://www.bilibili.com/video/av15826511/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=1VGTTGXIB_w&t=2059s" target="_blank">Y</a>]</li>
+						<li>Lecture 6: Fine-tuning and Optimization (Momentum, Adagrad, RMSProp, Adadelta, and Adam). [<a href="https://www.bilibili.com/video/av15826511/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=1VGTTGXIB_w&t=2059s" target="_blank">Y</a>]</li>
 						<li>Lecture 7: Object Detection (R-CNN, Fast R-CNN, and Faster R-CNN). [<a href="https://www.bilibili.com/video/av16012497/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=bqqlNu6byso&t=2338s" target="_blank">Y</a>]</li>
 						<li>Lecture 8: Object Detection (SSD). [<a href="https://www.bilibili.com/video/av16225415/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=LLLC_mMRcSk&t=1393s" target="_blank">Y</a>]</li>
 						<li>Lecture 9: Object Detection (YOLO and Mask R-CNN). [<a href="https://www.bilibili.com/video/av16440968/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=8PeT2dknu2s&t=2494s" target="_blank">Y</a>]</li>
@@ -96,6 +120,7 @@
 						<li>Lecture 18: Sequence-to-Sequence (Decoder-Encoder) and Attention. [<a href="https://www.bilibili.com/video/av19080685/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=GQh7wDQDc0Y&t=2995s" target="_blank">Y</a>]</li>
 						<li>Lecture 19: Neural Machine Translation. [<a href="https://www.bilibili.com/video/av19400863/" target="_blank">B</a>] [<a href="https://www.youtube.com/watch?v=JQfIijAnmZ8" target="_blank">Y</a>]</li>
 						</ul>
+                        </div>
 					</ul>
 			</ul>
 			<br>
@@ -257,5 +282,22 @@ No problem! Try our <a href="http://www.ooisea.tk/" target="_blank">ooisea.tk</a
 		</tr>
 	</tbody>
 </table>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("collapsible-active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 </body>
 </html>
