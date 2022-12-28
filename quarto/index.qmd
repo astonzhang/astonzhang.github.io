@@ -83,12 +83,12 @@ My team is hiring intern scientists in machine learning
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR, <font color="red">Outstanding Paper Award</font>**), 2021<br>
 	<a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-## [All Papers](papers.qmd)
+## All Papers
 
+[List](papers.qmd)
 
 
 ## Tutorials
-
 
 * with A. J. Smola<br>
 	**Attention in Deep Learning** [<a href="http://alex.smola.org/talks/ICML19-attention.key" target="_blank">Keynote</a>] [<a href="http://alex.smola.org/talks/ICML19-attention.pdf" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=nS1Lse2B48w" target="_blank">Video</a>]<br>
@@ -111,14 +111,14 @@ My team is hiring intern scientists in machine learning
 ## Services
 
 * Area Chair
-	* Annual Meeting of the Association for Computational Linguistics (**ACL**)
-	* Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
+	* *Annual Meeting of the Association for Computational Linguistics* (**ACL**)
+	* *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**)
 
 * Senior Program Committee
-	* AAAI Conference on Artificial Intelligence (**AAAI**)
+	* *AAAI Conference on Artificial Intelligence* (**AAAI**)
 
 * Journal Editorial Board
-	* Frontiers in Big Data
+	* *Frontiers in Big Data*
 
 
 ## Ph.D. Interns</a>
