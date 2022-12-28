@@ -7,7 +7,7 @@
 </p>
 
 
-<b>Aston Zhang</b> is a senior scientist at Amazon Web Services AI.
+**Aston Zhang** is a senior scientist at Amazon Web Services AI.
 His current research interests focus on efficient and robust methods for machine learning and natural language processing.
 He received the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award (2021)</a>,
 the ACM Ubicomp Distinguished Paper Award (2018), and the ACM SenSys Best Paper Award Nomination (2017).
@@ -26,14 +26,14 @@ My team is hiring intern scientists in machine learning
 
 * **A. Zhang**, Z. C. Lipton, M. Li, and A. J. Smola<br>
  	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
-	Cambridge University Press, 2023<br>
+	*Cambridge University Press*, 2023<br>
 	* Adopted at 400 universities from 60 countries
 	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent 2021 keynote</a> by Dr. Swami Sivasubramanian<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 * **A. Zhang**, M. Li, Z. C. Lipton, and A. J. Smola<br>
 	<a href="https://zh.d2l.ai" target="_blank">动手学深度学习</a><br>
-	人民邮电出版社, 2nd ed., 2023, 1st ed., 2019<br>
+	*人民邮电出版社*, 2nd ed., 2023, 1st ed., 2019<br>
 	* <a href="https://github.com/d2l-ai/d2l-zh/raw/v1/img/frontpage/jd-190715-en.png" target="_blank">Best seller</a> of new books in "Computers and Internet" at the largest Chinese online bookstore<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
@@ -42,45 +42,45 @@ My team is hiring intern scientists in machine learning
 
 * Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
 	<a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
-	<i>"Let's think not just step by step, but also one by one."</i>
-	In <i>arXiv</i>, 2022<br>
+	*"Let's think not just step by step, but also one by one."*
+	In *arXiv*, 2022<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1579489453789581312" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-research/auto-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://d2l-webdata.s3.us-west-2.amazonaws.com/papers/PEFT-design-spaces.pdf" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
-	<i>"Adapters, prefix tuning, BitFit, LoRA, ... do design patterns exist?"</i>
-	In <i>arXiv</i>, 2022<br>
+	*"Adapters, prefix tuning, BitFit, LoRA, ... do design patterns exist?"*
+	In *arXiv*, 2022<br>
 
 
 * M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, M. Li<br>
 	<a href="https://arxiv.org/abs/2212.10929" target="_blank">
 	SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
-	<i>"If your prompt tuning can't converge easily, make it semi-parametric."</i>
-	In <i>arXiv</i>, 2022<br>
+	*"If your prompt tuning can't converge easily, make it semi-parametric."*
+	In *arXiv*, 2022<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1605959819894349824" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
 	<a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
-	In <i>Proceedings of International Conference on Machine Learning</i> (<b>ICML, Long Presentation</b>), 2022<br>
+	In *Proceedings of International Conference on Machine Learning* (**ICML, Long Presentation**), 2022<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1549800894840971265" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-research/long-tailed-ood-detection" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * H. Wang, **A. Zhang**, S. Zheng, X. Shi, M. Li, and Z. Wang<br>
 	<a href="https://arxiv.org/pdf/2207.01156.pdf" target="_blank">Removing Batch Normalization Boosts Adversarial Training</a><br>
-	In <i>Proceedings of International Conference on Machine Learning</i> (<b>ICML</b>), 2022<br>
+	In *Proceedings of International Conference on Machine Learning* (**ICML**), 2022<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1549069378250874880" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-research/normalizer-free-robust-training" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * E. Grassucci, **A. Zhang**, and D. Comminiello<br>
 	<a href="https://arxiv.org/abs/2110.04176" target="_blank">PHNNs: Lightweight Neural Networks via Parameterized Hypercomplex Convolutions</a><br>
-	In <i>IEEE Transactions on Neural Networks and Learning Systems</i> (<b>TNNLS</b>), 2022<br>
+	In *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2022<br>
 	<a href="https://github.com/eleGAN23/HyperNets" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * **A. Zhang**, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
 	<a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>
-	In <i>Proceedings of the International Conference on Learning Representations</i> (<b>ICLR, <font color="red">Outstanding Paper Award</font></b>), 2021<br>
+	In *Proceedings of the International Conference on Learning Representations* (**ICLR, <font color="red">Outstanding Paper Award</font>**), 2021<br>
 	<a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 ## [All Papers](papers.qmd)
@@ -91,19 +91,19 @@ My team is hiring intern scientists in machine learning
 
 
 * with A. J. Smola<br>
-	<b>Attention in Deep Learning</b> [<a href="http://alex.smola.org/talks/ICML19-attention.key" target="_blank">Keynote</a>] [<a href="http://alex.smola.org/talks/ICML19-attention.pdf" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=nS1Lse2B48w" target="_blank">Video</a>]<br>
+	**Attention in Deep Learning** [<a href="http://alex.smola.org/talks/ICML19-attention.key" target="_blank">Keynote</a>] [<a href="http://alex.smola.org/talks/ICML19-attention.pdf" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=nS1Lse2B48w" target="_blank">Video</a>]<br>
 	In *The 36th International Conference on Machine Learning* (**ICML**), 2019
 
 * with H. Lin, X. Shi, L. Lausen, H. He, S. Zha, and A. J. Smola<br>
-	<b>Dive into Deep Learning for Natural Language Processing</b> <br>
+	**Dive into Deep Learning for Natural Language Processing** <br>
 	In *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2019
 
 * with H. Lin, L. Lausen, S. Zha, A. J. Smola, C. Wang, and M. Li<br>
-	<b>From Shallow to Deep Language Representations: Pre-training, Fine-tuning, and Beyond</b> [<a href="https://github.com/astonzhang/KDD19-tutorial" target="_blank">Website</a>]<br>
+	**From Shallow to Deep Language Representations: Pre-training, Fine-tuning, and Beyond** [<a href="https://github.com/astonzhang/KDD19-tutorial" target="_blank">Website</a>]<br>
 	In *The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2019
 
 * with H. Zhang, T. He, Z. Zhang, Z. Zhang, H. Lin, and M. Li<br>
-	<b>Everything You Need to Know to Reproduce SOTA Deep Learning Models from Hands-on Tutorial</b><br>
+	**Everything You Need to Know to Reproduce SOTA Deep Learning Models from Hands-on Tutorial**<br>
 	In *International Conference on Computer Vision* (**ICCV**), 2019
 
 

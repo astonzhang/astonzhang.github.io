@@ -3,6 +3,6 @@
 cd quarto
 # edit inside quarto/*
 quarto preview
-. deploy
+. deploy.sh
 git add/commit/push
 ```
