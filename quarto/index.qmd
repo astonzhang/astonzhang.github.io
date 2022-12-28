@@ -1,22 +1,12 @@
 # Aston Zhang
 
-<table align="center" width="1000">
-<tbody>
-<tr>
-<td height="200" width="200"><img src="img/aston.jpg" height="150" width="150" border="0" hspace="0" /></td>
-<td>
-<p align="left"><img src="img/email.png" height="30" width="225"></p>
-<p align="left"><span style="font-size: large;">2795 Augustine Dr, Santa Clara, CA 95054</span></p>
+<img src="img/aston.jpg"  border="0" vspace="5" hspace="0" /><br>
+<img src="img/email.png" height="30" width="200" vspace="5" ><br>
+
 <p align="left">
 	<a href="https://twitter.com/astonzhangAZ" title="Twitter" target="_blank"><img src="./img/logo-twitter.svg" class="bio-icon"></a>
 	<a href="https://github.com/astonzhang" title="GitHub" target="_blank"><img src="./img/logo-github.svg" class="bio-icon"></a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-
-
 
 
 <b>Aston Zhang</b> is a senior scientist at Amazon Web Services AI.
@@ -95,7 +85,7 @@ In <i>IEEE Transactions on Neural Networks and Learning Systems</i> (<b>TNNLS</b
 In <i>Proceedings of the International Conference on Learning Representations</i> (<b>ICLR, <font color="red">Outstanding Paper Award</font></b>), 2021<br>
 <a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-## <a href="papers.html">All Papers</a>
+## [All Papers](papers.qmd)
 
 ## Services
 

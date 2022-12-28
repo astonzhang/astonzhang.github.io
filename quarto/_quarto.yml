@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - papers.qmd
+  twitter-card: true
+  google-analytics: "UA-27909669-4"
 
 format:
   html:
