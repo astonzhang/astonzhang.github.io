@@ -1,5 +1,5 @@
-<img src="img/aston.jpg"  border="0" vspace="5" hspace="0" /><br>
-<img src="img/email.png" height="30" width="200" vspace="5" ><br>
+<img src="img/aston.jpg"  border="0" vspace="10" hspace="0" /><br>
+<img src="img/email.png" height="30" width="200" vspace="0" ><br>
 
 <p align="left">
 	<a href="https://twitter.com/astonzhangAZ" title="Twitter" target="_blank"><img src="./img/logo-twitter.svg" class="bio-icon"></a>
@@ -84,6 +84,29 @@ In <i>Proceedings of the International Conference on Learning Representations</i
 <a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 ## [All Papers](papers.qmd)
+
+
+
+## Tutorials
+
+
+* with A. J. Smola<br>
+	<b>Attention in Deep Learning</b> [<a href="http://alex.smola.org/talks/ICML19-attention.key" target="_blank">Keynote</a>] [<a href="http://alex.smola.org/talks/ICML19-attention.pdf" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=nS1Lse2B48w" target="_blank">Video</a>]<br>
+	In <i>The 36th International Conference on Machine Learning</i> (<b>ICML</b>), 2019
+
+* with H. Lin, X. Shi, L. Lausen, H. He, S. Zha, and A. J. Smola<br>
+	<b>Dive into Deep Learning for Natural Language Processing</b> <br>
+	In <i>Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP</b>), 2019
+
+* with H. Lin, L. Lausen, S. Zha, A. J. Smola, C. Wang, and M. Li<br>
+	<b>From Shallow to Deep Language Representations: Pre-training, Fine-tuning, and Beyond</b> [<a href="https://github.com/astonzhang/KDD19-tutorial" target="_blank">Website</a>]<br>
+	In <i>The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</b>), 2019
+
+* with H. Zhang, T. He, Z. Zhang, Z. Zhang, H. Lin, and M. Li<br>
+	<b>Everything You Need to Know to Reproduce SOTA Deep Learning Models from Hands-on Tutorial</b><br>
+	In <i>International Conference on Computer Vision</i> (<b>ICCV</b>), 2019
+
+
 
 ## Services
 
