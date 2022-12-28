@@ -1,5 +1,3 @@
-# Aston Zhang
-
 <img src="img/aston.jpg"  border="0" vspace="5" hspace="0" /><br>
 <img src="img/email.png" height="30" width="200" vspace="5" ><br>
 
