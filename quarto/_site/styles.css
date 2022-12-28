@@ -39,8 +39,63 @@ li{
     line-height: 1.4;
 }
 
+.bio-icon {
+	max-height: 40px;
+	padding-right: 20px;
+}
+
+.paper-icon {
+	max-height: 20px;
+	padding-right: 5px;
+}
+
+.collapsible {
+  background-color: #FFF;
+  color: black;
+  cursor: pointer;
+  padding: 1px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+}
+
+.collapsible-active, .collapsible:hover {
+  background-color: #EEE;
+}
+
+.expansion {
+  padding: 3px 6px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.margin-bottom {
+ margin-bottom: 6px;
+}
+
+.bio-photo {
+    border-radius: 15px;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----FONT BEGIN-----*/
 /*From https://use.typekit.net/mko8njf.css*/
 
 /*
@@ -86,40 +141,4 @@ font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
 }
 
 .tk-adobe-garamond-pro { font-family: "adobe-garamond-pro",serif; }
-
-.bio-icon {
-	max-height: 40px;
-	padding-right: 20px;
-}
-
-.paper-icon {
-	max-height: 20px;
-	padding-right: 5px;
-}
-
-.collapsible {
-  background-color: #FFF;
-  color: black;
-  cursor: pointer;
-  padding: 1px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 16px;
-}
-
-.collapsible-active, .collapsible:hover {
-  background-color: #EEE;
-}
-
-.expansion {
-  padding: 3px 6px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-
-.margin-bottom {
- margin-bottom: 6px;
-}
+/*-----FONT END-----*/
