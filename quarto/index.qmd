@@ -30,13 +30,13 @@ My team is hiring intern scientists in machine learning
  	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
 	Cambridge University Press, 2023<br>
 	* Adopted at 400 universities from 60 countries
-	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent 2021 keynote</a> by Dr. Swami Sivasubramanian
+	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent 2021 keynote</a> by Dr. Swami Sivasubramanian<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 * A. Zhang, M. Li, Z. C. Lipton, and A. J. Smola<br>
 	<a href="https://zh.d2l.ai" target="_blank">动手学深度学习</a><br>
 	人民邮电出版社, 2nd ed., 2023, 1st ed., 2019<br>
-	* <a href="https://github.com/d2l-ai/d2l-zh/raw/v1/img/frontpage/jd-190715-en.png" target="_blank">Best seller</a> of new books in "Computers and Internet" at the largest Chinese online bookstore
+	* <a href="https://github.com/d2l-ai/d2l-zh/raw/v1/img/frontpage/jd-190715-en.png" target="_blank">Best seller</a> of new books in "Computers and Internet" at the largest Chinese online bookstore<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 
