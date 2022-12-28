@@ -1,0 +1,127 @@
+# Aston Zhang
+
+<table align="center" width="1000">
+<tbody>
+<tr>
+<td height="200" width="200"><img src="img/aston.jpg" height="150" width="150" border="0" hspace="0" /></td>
+<td>
+<p align="left"><img src="img/email.png" height="30" width="225"></p>
+<p align="left"><span style="font-size: large;">2795 Augustine Dr, Santa Clara, CA 95054</span></p>
+<p align="left">
+	<a href="https://twitter.com/astonzhangAZ" title="Twitter" target="_blank"><img src="./img/logo-twitter.svg" class="bio-icon"></a>
+	<a href="https://github.com/astonzhang" title="GitHub" target="_blank"><img src="./img/logo-github.svg" class="bio-icon"></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<b>Aston Zhang</b> is a senior scientist at Amazon Web Services AI.
+His current research interests focus on efficient and robust methods for machine learning and natural language processing.
+He received the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award (2021)</a>,
+the ACM Ubicomp Distinguished Paper Award (2018), and the ACM SenSys Best Paper Award Nomination (2017).
+His <a href="https://github.com/d2l-ai" target="_blank">open-source</a> textbook,
+<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>,
+has been <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
+He obtained his Ph.D. in Computer Science from University of Illinois at Urbana-Champaign.
+
+
+Hi! I'm happy to connect and discuss. Preferred mode of contact is my email.
+My team is hiring intern scientists in machine learning
+(at our <a href="https://www.google.com/maps/place/2795+Augustine+Dr,+Santa+Clara,+CA+95054/@37.3835062,-121.9778599,17z/data=!3m1!4b1!4m5!3m4!1s0x808fc9f208b94da1:0xd2df9ae053c51af0!8m2!3d37.383502!4d-121.9756659" target="_blank">Santa Clara office</a> or other global offices). Just drop me a line.
+
+
+## Books
+
+* A. Zhang, Z. C. Lipton, M. Li, and A. J. Smola<br>
+ 	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
+	Cambridge University Press, 2023<br>
+	* Adopted at 400 universities from 60 countries
+	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent 2021 keynote</a> by Dr. Swami Sivasubramanian
+	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
+
+* A. Zhang, M. Li, Z. C. Lipton, and A. J. Smola<br>
+	<a href="https://zh.d2l.ai" target="_blank">动手学深度学习</a><br>
+	人民邮电出版社, 2nd ed., 2023, 1st ed., 2019<br>
+	* <a href="https://github.com/d2l-ai/d2l-zh/raw/v1/img/frontpage/jd-190715-en.png" target="_blank">Best seller</a> of new books in "Computers and Internet" at the largest Chinese online bookstore
+	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
+
+
+## Recent Papers
+
+* Z. Zhang, A. Zhang, M. Li, and A. J. Smola<br>
+<a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
+<i>"Let's think not just step by step, but also one by one."</i>
+In <i>arXiv</i>, 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1579489453789581312" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+<a href="https://github.com/amazon-research/auto-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+
+* J. Chen, A. Zhang, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
+<a href="https://d2l-webdata.s3.us-west-2.amazonaws.com/papers/PEFT-design-spaces.pdf" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
+<i>"Adapters, prefix tuning, BitFit, LoRA, ... do design patterns exist?"</i>
+In <i>arXiv</i>, 2022<br>
+
+
+* M. S. Bari, A. Zhang, S. Zheng, X. Shi, Y. Zhu, S. Joty, M. Li<br>
+<a href="https://arxiv.org/abs/2212.10929" target="_blank">
+SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
+<i>"If your prompt tuning can't converge easily, make it semi-parametric."</i>
+In <i>arXiv</i>, 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1605959819894349824" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+
+* H. Wang, A. Zhang, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
+<a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
+In <i>Proceedings of International Conference on Machine Learning</i> (<b>ICML, Long Presentation</b>), 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1549800894840971265" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+<a href="https://github.com/amazon-research/long-tailed-ood-detection" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* H. Wang, A. Zhang, S. Zheng, X. Shi, M. Li, and Z. Wang<br>
+<a href="https://arxiv.org/pdf/2207.01156.pdf" target="_blank">Removing Batch Normalization Boosts Adversarial Training</a><br>
+In <i>Proceedings of International Conference on Machine Learning</i> (<b>ICML</b>), 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1549069378250874880" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+<a href="https://github.com/amazon-research/normalizer-free-robust-training" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* E. Grassucci, A. Zhang, and D. Comminiello<br>
+<a href="https://arxiv.org/abs/2110.04176" target="_blank">PHNNs: Lightweight Neural Networks via Parameterized Hypercomplex Convolutions</a><br>
+In <i>IEEE Transactions on Neural Networks and Learning Systems</i> (<b>TNNLS</b>), 2022<br>
+<a href="https://github.com/eleGAN23/HyperNets" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* A. Zhang, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
+<a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>
+In <i>Proceedings of the International Conference on Learning Representations</i> (<b>ICLR, <font color="red">Outstanding Paper Award</font></b>), 2021<br>
+<a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+## <a href="papers.html">All Papers</a>
+
+## Services
+
+* Area Chair
+	* Annual Meeting of the Association for Computational Linguistics (ACL)
+	* Conference on Empirical Methods in Natural Language Processing (EMNLP)
+
+* Senior Program Committee
+	* AAAI Conference on Artificial Intelligence (AAAI)
+
+* Journal Editorial Board
+	* Frontiers in Big Data
+
+
+## Ph.D. Interns</a>
+
+For prospective 2023 interns: my team is hiring research interns in NLP or ML. Just email me.
+
+* <a href="https://sites.cc.gatech.edu/~jchen896/" target="_blank">Jiaao Chen</a> (2022)
+* <a href="https://bcmi.sjtu.edu.cn/home/zhangzs/" target="_blank">Zhuosheng Zhang</a> (2022)
+* <a href="https://sbmaruf.github.io/" target="_blank">M Saiful Bari</a> (2022)
+* <a href="https://renshuhuai-andy.github.io/" target="_blank">Shuhuai Ren</a> (2022)
+* <a href="https://htwang14.github.io/" target="_blank">Haotao Wang</a> (2021, 2022)
+* <a href="https://shuaizhang.tech/" target="_blank">Shuai Zhang</a> (2019&ndash;2020)
+
+<br>
+<a href="https://twitter.com/astonzhangAZ?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @astonzhangAZ</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<a class="twitter-timeline" data-width="350" data-height="200" href="https://twitter.com/astonzhangAZ?ref_src=twsrc%5Etfw">Tweets by astonzhangAZ</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

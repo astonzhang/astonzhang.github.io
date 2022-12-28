@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Aston Zhang"
+  navbar:
+    background: secondary
+    left:
+      - href: index.qmd
+        text: Home
+      - papers.qmd
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    toc-title: .
+
+
+

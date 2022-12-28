@@ -1,0 +1,76 @@
+/* css styles */
+
+
+body {
+	color: #494e52;
+	font-family: Optima;
+}
+table {
+	font-size: 12pt;
+	color: #333;
+}
+/* unvisited link */
+a:link {
+	color:  #2b7bb9;
+	text-decoration: none;
+}
+/* visited link */
+a:visited {
+	color:  #2b7bb9;
+    text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+	color:  #3b94d9;
+    text-decoration: underline;
+}
+/* selected link */
+a:active {
+	color:  #3b94d9;
+    text-decoration: underline;
+}
+li{
+ 	margin: 3pt 0;
+}
+
+.bio p{
+    text-align: justify;
+    line-height: 1.4;
+}
+
+.bio-icon {
+	max-height: 40px;
+	padding-right: 20px;
+}
+
+.paper-icon {
+	max-height: 20px;
+	padding-right: 5px;
+}
+
+.collapsible {
+  background-color: #FFF;
+  color: black;
+  cursor: pointer;
+  padding: 1px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+}
+
+.collapsible-active, .collapsible:hover {
+  background-color: #EEE;
+}
+
+.expansion {
+  padding: 3px 6px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.margin-bottom {
+ margin-bottom: 6px;
+	}
