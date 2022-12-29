@@ -2,8 +2,6 @@
 title: "Papers"
 ---
 
-## 2022
-
 * Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
 <a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
 *"Let's think not just step by step, but also one by one."*
@@ -63,7 +61,6 @@ In *arXiv*, 2022<br>
 In *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2022<br>
 <a href="https://github.com/eleGAN23/HyperNets" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-## 2021
 
 * **A. Zhang**, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
 <a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>
@@ -106,7 +103,6 @@ In *Proceedings of the Web Conference* (**WWW**), 2021
 **Learning User Representations with Hypercuboids for Recommender Systems**<br>
 In *Proceedings of the 14th International Conference on Web Search and Data Mining* (**WSDM**), 2021
 
-## 2020
 
 * H. Shao, S. Yao, D. Sun, **A. Zhang**, S. Liu, D. Liu, J. Wang, and T. Abdelzaher<br>
 **ControlVAE: Controllable Variational Autoencoder**<br>
@@ -124,7 +120,6 @@ In *Findings of Empirical Methods in Natural Language Processing* (**EMNLP-Findi
 **GitHub Repository Recommendation for Academic Papers**<br>
 In *Proceedings of the Web Conference* (**WWW**), 2020
 
-## 2019
 
 * Y. Tay, A. T. Luu, **A. Zhang**, S. Wang, and S. C. Hui<br>
 **Compositional De-Attention Networks**<br>
@@ -146,7 +141,6 @@ In *Proceedings of the 57th Annual Meeting of the Association for Computational 
 **Parsimonious Morpheme Segmentation with an Application to Enriching Word Embeddings**<br>
 In *Proceedings of the IEEE International Conference on Big Data* (**IEEE BigData**), 2019
 
-## Earlier
 
 * S. Yao, Y. Zhao, **A. Zhang**, S. Hu, H. Shao, C. Zhang, L. Su, and T. Abdelzaher<br>
 **Deep Learning for the Internet of Things**<br>

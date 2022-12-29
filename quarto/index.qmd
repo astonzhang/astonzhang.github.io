@@ -38,7 +38,7 @@ My team is hiring intern scientists in machine learning
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 
-## Recent Papers
+## Papers ([All](papers.qmd))
 
 * Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
 	<a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
@@ -83,9 +83,7 @@ My team is hiring intern scientists in machine learning
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR, <font color="red">Outstanding Paper Award</font>**), 2021<br>
 	<a href="https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-## All Papers
 
-[List](papers.qmd)
 
 
 ## Tutorials

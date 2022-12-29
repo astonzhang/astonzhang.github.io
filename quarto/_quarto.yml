@@ -16,7 +16,7 @@ format:
   html:
     theme: yeti
     css: styles.css
-    toc: true
+    toc: false
     toc-title: .
 
 
