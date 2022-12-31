@@ -1,11 +1,23 @@
-<img src="img/aston.jpg"  border="0" vspace="10" hspace="0" class="bio-photo"><br>
-<img src="img/email.png" height="30" width="200" vspace="0" ><br>
+---
+about:
+  id: az-heading
+  template: trestles
+  image: img/aston.jpg
+  image-width: 200px
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/astonzhangAZ
+    - icon: github
+      text: GitHub
+      href: https://github.com/astonzhang
+    - icon: bi-envelope
+      text: Email
+      href: img/email.png
+---
 
-<p align="left">
-	<a href="https://twitter.com/astonzhangAZ" title="Twitter" target="_blank"><img src="./img/logo-twitter.svg" class="bio-icon"></a>
-	<a href="https://github.com/astonzhang" title="GitHub" target="_blank"><img src="./img/logo-github.svg" class="bio-icon"></a>
-</p>
-
+:::{#az-heading}
 
 **Aston Zhang** is a senior scientist at Amazon Web Services AI.
 His current research interests focus on efficient and robust methods for machine learning and natural language processing.
@@ -16,6 +28,7 @@ His <a href="https://github.com/d2l-ai" target="_blank">open-source</a> textbook
 has been <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
 He obtained his Ph.D. in Computer Science from University of Illinois at Urbana-Champaign.
 
+:::
 
 Hi! I'm happy to connect and discuss. Preferred mode of contact is my email.
 My team is hiring intern scientists in machine learning
