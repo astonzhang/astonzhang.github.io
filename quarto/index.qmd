@@ -1,17 +1,10 @@
-<div class="container">
+<img src="img/aston.jpg"  border="0" vspace="10" hspace="0" class="bio-photo"><br>
+<img src="img/email.png" height="30" width="200" vspace="0" ><br>
 
-<div class="fixed"><img src="img/aston.jpg" width="200" border="0" vspace="20" hspace="0" class="bio-photo"></div>
-<div class="flex-item">
-<img src="img/email.png" height="30" width="200" vspace="50" ><br>
 <p align="left">
 	<a href="https://twitter.com/astonzhangAZ" title="Twitter" target="_blank"><img src="./img/logo-twitter.svg" class="bio-icon"></a>
 	<a href="https://github.com/astonzhang" title="GitHub" target="_blank"><img src="./img/logo-github.svg" class="bio-icon"></a>
 </p>
-</div>
-
-</div>
-
-
 
 
 **Aston Zhang** is a senior scientist at Amazon Web Services AI.

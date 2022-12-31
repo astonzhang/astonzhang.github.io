@@ -81,15 +81,7 @@ li{
 }
 
 
-.container{
-    display: flex;
-}
-.fixed{
-    width: 230px;
-}
-.flex-item{
-    flex-grow: 1;
-}
+
 
 
 
