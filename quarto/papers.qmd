@@ -16,7 +16,7 @@ In *arXiv*, 2022<br>
 In *arXiv*, 2022<br>
 
 
-* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, M. Li<br>
+* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, and M. Li<br>
 <a href="https://arxiv.org/abs/2212.10929" target="_blank">
 SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
 *"If your prompt tuning can't converge easily, make it semi-parametric."*
@@ -43,7 +43,7 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 <a href="https://arxiv.org/pdf/2010.12742.pdf" target="_blank">Text Style Transfer: A Review and Experimental Evaluation</a><br>
 In *ACM SIGKDD Explorations*, 2022<br>
 
-* C. He, S. Zheng, **A. Zhang**, G. Karypis, T. Chilimbi, M. Soltanolkotabi, S. Avestimehr<br>
+* C. He, S. Zheng, **A. Zhang**, G. Karypis, T. Chilimbi, M. Soltanolkotabi, and S. Avestimehr<br>
 <a href="https://arxiv.org/abs/2212.05191" target="_blank">
 SMILE: Scaling Mixture-of-Experts with Efficient Bi-level Routing</a><br>
 *"2.5x speedup over Switch Transformers"*

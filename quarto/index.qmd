@@ -67,7 +67,7 @@ My team is hiring intern scientists in machine learning
 	In *arXiv*, 2022<br>
 
 
-* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, M. Li<br>
+* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, and M. Li<br>
 	<a href="https://arxiv.org/abs/2212.10929" target="_blank">
 	SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
 	*"If your prompt tuning can't converge easily, make it semi-parametric."*
