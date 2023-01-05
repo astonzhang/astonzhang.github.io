@@ -12,7 +12,7 @@ In *arXiv*, 2022<br>
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://d2l-webdata.s3.us-west-2.amazonaws.com/papers/PEFT-design-spaces.pdf" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
-*"Adapters, prefix tuning, BitFit, LoRA, ... do design patterns exist?"*
+*"Don't assign the SAME parameter-efficient fine-tuning strategy to DIFFERENT layers."*
 In *arXiv*, 2022<br>
 
 
@@ -43,11 +43,12 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 <a href="https://arxiv.org/pdf/2010.12742.pdf" target="_blank">Text Style Transfer: A Review and Experimental Evaluation</a><br>
 In *ACM SIGKDD Explorations*, 2022<br>
 
-* C. He, S. Zheng, **A. Zhang**, G. Karypis, T. Chilimbi, M. Soltanolkotabi, and S. Avestimehr<br>
-<a href="https://arxiv.org/abs/2212.05191" target="_blank">
-SMILE: Scaling Mixture-of-Experts with Efficient Bi-level Routing</a><br>
-*"2.5x speedup over Switch Transformers"*
+
+* Z. Liu, Z. Tang, X. Shi, **A. Zhang**, M. Li, A. Shrivastava, and A. Wilson<br>
+<a href="https://arxiv.org/abs/2212.14453" target="_blank">Learning Multimodal Data Augmentation in Feature Space</a><br>
+*"The first augmentation method to be applied to the joint of text, image, and tabular data."*
 In *arXiv*, 2022<br>
+
 
 * X. Hao, Y. Zhu, S. Appalaraju, **A. Zhang**, W. Zhang, B. Li, and M. Li<br>
 <a href="https://arxiv.org/abs/2206.08358" target="_blank">MixGen: A New Multi-Modal Data Augmentation</a><br>
@@ -55,6 +56,12 @@ In *arXiv*, 2022<br>
 In *arXiv*, 2022<br>
 <a href="https://twitter.com/astonzhangAZ/status/1537860202652786688" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/amazon-research/mix-generation" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* C. He, S. Zheng, **A. Zhang**, G. Karypis, T. Chilimbi, M. Soltanolkotabi, and S. Avestimehr<br>
+<a href="https://arxiv.org/abs/2212.05191" target="_blank">
+SMILE: Scaling Mixture-of-Experts with Efficient Bi-level Routing</a><br>
+*"2.5x speedup over Switch Transformers."*
+In *arXiv*, 2022<br>
 
 * E. Grassucci, **A. Zhang**, and D. Comminiello<br>
 <a href="https://arxiv.org/abs/2110.04176" target="_blank">PHNNs: Lightweight Neural Networks via Parameterized Hypercomplex Convolutions</a><br>

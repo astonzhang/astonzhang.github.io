@@ -63,7 +63,7 @@ My team is hiring intern scientists in machine learning
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://d2l-webdata.s3.us-west-2.amazonaws.com/papers/PEFT-design-spaces.pdf" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
-	*"Adapters, prefix tuning, BitFit, LoRA, ... do design patterns exist?"*
+	*"Don't assign the SAME parameter-efficient fine-tuning strategy to DIFFERENT layers."*
 	In *arXiv*, 2022<br>
 
 
