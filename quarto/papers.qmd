@@ -14,6 +14,7 @@ In *arXiv*, 2022<br>
 <a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 *"Don't assign the same parameter-efficient fine-tuning strategy to different layers."*
 In *arXiv*, 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1611400421255557122" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/amazon-science/peft-design-spaces" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 
