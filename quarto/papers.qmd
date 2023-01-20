@@ -4,19 +4,23 @@ title: "Papers"
 
 * Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
 <a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
-*"Let's think not just step by step, but also one by one."*
-In *arXiv*, 2022<br>
+In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 <a href="https://twitter.com/astonzhangAZ/status/1579489453789581312" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/amazon-research/auto-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
-*"Don't assign the same parameter-efficient fine-tuning strategy to different layers."*
-In *arXiv*, 2022<br>
+In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 <a href="https://twitter.com/astonzhangAZ/status/1611400421255557122" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/amazon-science/peft-design-spaces" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
+* Z. Liu, Z. Tang, X. Shi, **A. Zhang**, M. Li, A. Shrivastava, and A. Wilson<br>
+<a href="https://arxiv.org/abs/2212.14453" target="_blank">Learning Multimodal Data Augmentation in Feature Space</a><br>
+In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
+
+* T. Yang, Y. Zhu, Y. Xie, **A. Zhang**, C. Chen, and M. Li<br>
+<a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
+In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
 * M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, and M. Li<br>
 <a href="https://arxiv.org/abs/2212.10929" target="_blank">
@@ -44,13 +48,6 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 * Z. Hu, R. K.-W, Lee, C. C. Aggarwal, and **A. Zhang**<br>
 <a href="https://arxiv.org/pdf/2010.12742.pdf" target="_blank">Text Style Transfer: A Review and Experimental Evaluation</a><br>
 In *ACM SIGKDD Explorations*, 2022<br>
-
-
-* Z. Liu, Z. Tang, X. Shi, **A. Zhang**, M. Li, A. Shrivastava, and A. Wilson<br>
-<a href="https://arxiv.org/abs/2212.14453" target="_blank">Learning Multimodal Data Augmentation in Feature Space</a><br>
-*"The first augmentation method to be applied to the joint of text, image, and tabular data."*
-In *arXiv*, 2022<br>
-
 
 * X. Hao, Y. Zhu, S. Appalaraju, **A. Zhang**, W. Zhang, B. Li, and M. Li<br>
 <a href="https://arxiv.org/abs/2206.08358" target="_blank">MixGen: A New Multi-Modal Data Augmentation</a><br>
