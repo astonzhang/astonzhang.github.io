@@ -53,17 +53,24 @@ at our <a href="https://www.google.com/maps/place/2795+Augustine+Dr,+Santa+Clara
 
 ## Papers ([All](papers.qmd))
 
-* Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
-	<a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
-	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
-	<a href="https://twitter.com/astonzhangAZ/status/1579489453789581312" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
-	<a href="https://github.com/amazon-research/auto-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+* Z. Zhang, **A. Zhang**, M. Li, H. Zhao, G. Karypis, and A. J. Smola<br>
+	<a href="https://arxiv.org/abs/2302.00923" target="_blank">Multimodal Chain-of-Thought Reasoning in Language Models</a><br>
+	*"SOTA and surpassing human performance on the ScienceQA benchmark."*
+	In *arXiv*, 2023<br>
+	<a href="https://twitter.com/arankomatsuzaki/status/1621323705686134788" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1611400421255557122" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-science/peft-design-spaces" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* Z. Zhang, **A. Zhang**, M. Li, and A. J. Smola<br>
+	<a href="https://arxiv.org/abs/2210.03493" target="_blank">Automatic Chain of Thought Prompting in Large Language Models</a><br>
+	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
+	<a href="https://twitter.com/astonzhangAZ/status/1579489453789581312" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+	<a href="https://github.com/amazon-research/auto-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * Z. Liu, Z. Tang, X. Shi, **A. Zhang**, M. Li, A. Shrivastava, and A. Wilson<br>
 	<a href="https://arxiv.org/abs/2212.14453" target="_blank">Learning Multimodal Data Augmentation in Feature Space</a><br>
@@ -77,7 +84,7 @@ at our <a href="https://www.google.com/maps/place/2795+Augustine+Dr,+Santa+Clara
 	<a href="https://arxiv.org/abs/2212.10929" target="_blank">
 	SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
 	*"If your prompt tuning can't converge easily, make it semi-parametric."*
-	In *arXiv*, 2022<br>
+	In *arXiv*, 2023<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1605959819894349824" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
