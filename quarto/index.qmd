@@ -45,7 +45,7 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
 * **A. Zhang**, M. Li, Z. C. Lipton, and A. J. Smola<br>
 	<a href="https://zh.d2l.ai" target="_blank">动手学深度学习</a><br>
 	*人民邮电出版社*, 2nd ed., 2023, 1st ed., 2019<br>
-	* Best seller of new books in "Computers and Internet" at the largest Chinese online bookstore (both ed.)<br>
+	* Best seller (both ed.) of new books in "Computers and Internet" at the largest Chinese online bookstore<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 
