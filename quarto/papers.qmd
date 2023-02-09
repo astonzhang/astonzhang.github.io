@@ -8,7 +8,7 @@ title: "Papers"
 	In *arXiv*, 2023<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1621545166049005568" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-	[[Trending on paperswithcode]](img/mm-cot-trending.png)
+	[[Trending on paperswithcode]](img/mm-cot-trending-social.png)
 	[[Idea Inspiration]](img/mm-cot-idea.png)
 	[[Reddit Reply]](https://www.reddit.com/r/MachineLearning/comments/10svwch/comment/j79i4jj/?utm_source=share&utm_medium=web2x&context=3)
 
