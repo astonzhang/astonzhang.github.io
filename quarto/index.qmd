@@ -9,12 +9,12 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/astonzhangAZ
+    - icon: file-earmark-person-fill
+      text: CV
+      href: https://www.dropbox.com/s/t2e33tpduom4bk9/CV_Aston_Zhang.pdf?dl=0
     - icon: github
       text: GitHub
       href: https://github.com/astonzhang
-    - icon: bi-envelope
-      text: Email
-      href: img/email.png
 ---
 
 :::{#az-heading}
