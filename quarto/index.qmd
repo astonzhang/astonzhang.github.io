@@ -39,7 +39,7 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
  	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
 	*Cambridge University Press*, 2023<br>
 	* Adopted at 400 universities from 60 countries
-	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent 2021 keynote</a> by Dr. Swami Sivasubramanian<br>
+	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent keynote</a> by Swami, Head of AWS AI, Database, and Analytics<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
 * **A. Zhang**, M. Li, Z. C. Lipton, and A. J. Smola<br>
