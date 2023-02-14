@@ -80,13 +80,6 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
 	<a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
-* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, and M. Li<br>
-	<a href="https://arxiv.org/abs/2212.10929" target="_blank">
-	SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
-	*"If your prompt tuning can't converge easily, make it semi-parametric."*
-	In *arXiv*, 2023<br>
-	<a href="https://twitter.com/astonzhangAZ/status/1605959819894349824" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
-
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
 	<a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
 	In *Proceedings of International Conference on Machine Learning* (**ICML, Long Presentation**), 2022<br>
