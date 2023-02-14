@@ -10,8 +10,8 @@ about:
       text: Twitter
       href: https://twitter.com/astonzhangAZ
     - icon: file-earmark-person-fill
-      text: CV
-      href: https://www.dropbox.com/s/5k809fym1pc65jp/CV_Aston_Zhang.pdf?dl=0
+      text: Email
+      href: img/email.png
     - icon: github
       text: GitHub
       href: https://github.com/astonzhang
