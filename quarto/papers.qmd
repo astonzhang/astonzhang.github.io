@@ -10,7 +10,6 @@ title: "Papers"
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 	[[Top Trending Research on paperswithcode]](img/mm-cot-trending.png)
 	[[Idea Inspiration by Homeschooling]](img/mm-cot-idea.png)
-	[[Reddit]](https://www.reddit.com/r/MachineLearning/comments/10svwch/r_multimodal_chainofthought_reasoning_in_language/)
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
