@@ -12,9 +12,6 @@ about:
     - icon: file-earmark-person-fill
       text: CV
       href: https://www.dropbox.com/s/ey71hf621x7duho/CV-Aston.pdf?dl=0
-    - icon: github
-      text: GitHub
-      href: https://github.com/astonzhang
 ---
 
 :::{#az-heading}
