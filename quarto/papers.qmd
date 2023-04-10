@@ -29,6 +29,21 @@ In *Proceedings of the International Conference on Learning Representations* (**
 <a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
+
+* S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
+<br>
+<a href="https://arxiv.org" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
+*"Scaling up prompt learning on ImageNet-21K achieves SOTA on 21 downstream datasets."*
+In *arXiv*, 2023<br>
+<a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* J. Chen, **A. Zhang**, M. Li, A. J. Smola, and D. Yang<br>
+<a href="https://arxiv.org" target="_blank">A Cheaper and Better Diffusion Language Model with Soft-Masked Noise</a><br>
+*"Train diffusion language models faster with masks."*
+In *arXiv*, 2023<br>
+<a href="https://github.com/amazon-science/masked-diffusion-lm" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
 <a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
 In *Proceedings of International Conference on Machine Learning* (**ICML, Long Presentation**), 2022<br>
@@ -40,6 +55,14 @@ In *Proceedings of International Conference on Machine Learning* (**ICML, Long P
 In *Proceedings of International Conference on Machine Learning* (**ICML**), 2022<br>
 <a href="https://twitter.com/astonzhangAZ/status/1549069378250874880" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/amazon-research/normalizer-free-robust-training" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+
+* M. S. Bari, **A. Zhang**, S. Zheng, X. Shi, Y. Zhu, S. Joty, and M. Li<br>
+<a href="https://arxiv.org/abs/2212.10929" target="_blank">
+SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning</a><br>
+*"If your prompt tuning can't converge easily, make it semi-parametric."*
+In *arXiv*, 2022<br>
+<a href="https://twitter.com/astonzhangAZ/status/1605959819894349824" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 
 * H. Wang, J. Hong, **A. Zhang**, J. Zhou, and Z. Wang<br>
 <a href="https://arxiv.org/abs/2210.06428" target="_blank">Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork</a><br>
