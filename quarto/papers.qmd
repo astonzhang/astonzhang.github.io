@@ -32,13 +32,13 @@ In *Proceedings of the International Conference on Learning Representations* (**
 
 * S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
 <br>
-<a href="https://arxiv.org" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
+<a href="https://arxiv.org/abs/2304.04704" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
 *"Scaling up prompt learning on ImageNet-21K achieves SOTA on 21 downstream datasets."*
 In *arXiv*, 2023<br>
 <a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * J. Chen, **A. Zhang**, M. Li, A. J. Smola, and D. Yang<br>
-<a href="https://arxiv.org" target="_blank">A Cheaper and Better Diffusion Language Model with Soft-Masked Noise</a><br>
+<a href="https://arxiv.org/abs/2304.04746" target="_blank">A Cheaper and Better Diffusion Language Model with Soft-Masked Noise</a><br>
 *"Train diffusion language models faster with masks."*
 In *arXiv*, 2023<br>
 <a href="https://github.com/amazon-science/masked-diffusion-lm" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
