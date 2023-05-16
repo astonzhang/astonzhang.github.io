@@ -8,6 +8,7 @@ title: "Papers"
 	In *arXiv*, 2023<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1621545166049005568" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+	<a href="img/mm-cot-idea.png" target="_blank">[Idea Inspiration by Homeschooling]</a>
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
@@ -42,6 +43,11 @@ In *arXiv*, 2023<br>
 *"Train diffusion language models faster with masks."*
 In *arXiv*, 2023<br>
 <a href="https://github.com/amazon-science/masked-diffusion-lm" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* Z. Zeng, C. Hawkins, M. Hong, **A. Zhang**, N. Pappas, V. Singh, and S. Zheng<br>
+<a href="https://arxiv.org/abs/2305.04241" target="_blank">Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens</a><br>
+*"Only a small subset of tokens are relevant to the output."*
+In *arXiv*, 2023<br>
 
 
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
