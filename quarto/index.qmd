@@ -128,12 +128,6 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
 	* *Annual Meeting of the Association for Computational Linguistics* (**ACL**)
 	* *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**)
 
-* Senior Program Committee
-	* *AAAI Conference on Artificial Intelligence* (**AAAI**)
-
-* Journal Editorial Board
-	* *Frontiers in Big Data*
-
 
 <br>
 <a href="https://twitter.com/astonzhangAZ?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @astonzhangAZ</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
