@@ -59,6 +59,7 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
 
 * C. Qin, **A. Zhang**, Z. Zhang, J. Chen, M. Yasunaga, and D. Yang<br>
 <a href="https://arxiv.org/abs/2302.06476" target="_blank">Is ChatGPT a General-Purpose Natural Language Processing Task Solver?</a><br>
+*"Can ChatGPT solve, for example, sequence tagging?"*
 In *arXiv*, 2023<br>
 
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
