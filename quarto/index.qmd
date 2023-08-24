@@ -57,6 +57,10 @@ Hi! I'm happy to connect and discuss. Our office is at <a href="https://www.goog
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 	<a href="img/mm-cot-idea.png" target="_blank">[Idea Inspiration by Homeschooling]</a>
 
+* C. Qin, **A. Zhang**, Z. Zhang, J. Chen, M. Yasunaga, and D. Yang<br>
+<a href="https://arxiv.org/abs/2302.06476" target="_blank">Is ChatGPT a General-Purpose Natural Language Processing Task Solver?</a><br>
+In *arXiv*, 2023<br>
+
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
