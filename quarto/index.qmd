@@ -127,7 +127,7 @@ In *arXiv*, 2023<br>
 
 ## Services
 
-* Area Chairs
+* Area Chair
 	* *Annual Meeting of the Association for Computational Linguistics* (**ACL**)
 	* *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**)
 
