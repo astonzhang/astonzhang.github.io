@@ -61,6 +61,22 @@ He obtained his Ph.D. in Computer Science from University of Illinois at Urbana-
 *"Can ChatGPT solve, for example, sequence tagging?"*
 In *arXiv*, 2023<br>
 
+* Z. Zhang and **A. Zhang**<br>
+<a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
+*"From screenshots to actions. It takes first principles thinking."*
+In *arXiv*, 2023<br>
+<a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
+<br>
+<a href="https://arxiv.org/abs/2304.04704" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
+In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2023<br>
+<a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* Z. Zeng, C. Hawkins, M. Hong, **A. Zhang**, N. Pappas, V. Singh, and S. Zheng<br>
+<a href="https://arxiv.org/abs/2305.04241" target="_blank">Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens</a><br>
+In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2023<br>
+
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
@@ -92,11 +108,6 @@ In *arXiv*, 2023<br>
 	In *Proceedings of International Conference on Machine Learning* (**ICML**), 2022<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1549069378250874880" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-research/normalizer-free-robust-training" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
-* E. Grassucci, **A. Zhang**, and D. Comminiello<br>
-	<a href="https://arxiv.org/abs/2110.04176" target="_blank">PHNNs: Lightweight Neural Networks via Parameterized Hypercomplex Convolutions</a><br>
-	In *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2022<br>
-	<a href="https://github.com/eleGAN23/HyperNets" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * **A. Zhang**, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
 	<a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>

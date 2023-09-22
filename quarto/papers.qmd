@@ -15,6 +15,22 @@ title: "Papers"
 *"Can ChatGPT solve, for example, sequence tagging?"*
 In *arXiv*, 2023<br>
 
+* Z. Zhang and **A. Zhang**<br>
+<a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
+*"From screenshots to actions. It takes first principles thinking."*
+In *arXiv*, 2023<br>
+<a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
+<br>
+<a href="https://arxiv.org/abs/2304.04704" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
+In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2023<br>
+<a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* Z. Zeng, C. Hawkins, M. Hong, **A. Zhang**, N. Pappas, V. Singh, and S. Zheng<br>
+<a href="https://arxiv.org/abs/2305.04241" target="_blank">Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens</a><br>
+In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2023<br>
+
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
@@ -35,25 +51,11 @@ In *Proceedings of the International Conference on Learning Representations* (**
 <a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
-
-* S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
-<br>
-<a href="https://arxiv.org/abs/2304.04704" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
-*"Scaling up prompt learning on ImageNet-21K achieves SOTA on 21 downstream datasets."*
-In *arXiv*, 2023<br>
-<a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
 * J. Chen, **A. Zhang**, M. Li, A. J. Smola, and D. Yang<br>
 <a href="https://arxiv.org/abs/2304.04746" target="_blank">A Cheaper and Better Diffusion Language Model with Soft-Masked Noise</a><br>
 *"Train diffusion language models faster with masks."*
 In *arXiv*, 2023<br>
 <a href="https://github.com/amazon-science/masked-diffusion-lm" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
-* Z. Zeng, C. Hawkins, M. Hong, **A. Zhang**, N. Pappas, V. Singh, and S. Zheng<br>
-<a href="https://arxiv.org/abs/2305.04241" target="_blank">Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens</a><br>
-*"Only a small subset of tokens are important to the output."*
-In *arXiv*, 2023<br>
-
 
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
 <a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
