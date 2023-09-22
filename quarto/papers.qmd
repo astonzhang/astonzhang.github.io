@@ -17,7 +17,7 @@ In *arXiv*, 2023<br>
 
 * Z. Zhang and **A. Zhang**<br>
 <a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
-*"From screenshots to actions. It takes first principles thinking."*
+*"Perform a task on smart phones? Train an agent using screenshots."*
 In *arXiv*, 2023<br>
 <a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
