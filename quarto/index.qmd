@@ -16,8 +16,8 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is a research scientist at Meta Generative AI, building large models.
-Previously, he studied language models and multimodality for AI at Amazon Web Services AI Research.
+**Aston Zhang** is a research scientist at Meta Generative AI, building large language models.
+Previously, he was a scientist at Amazon Web Services AI Research.
 He received an <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 an ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award Nomination.
 His <a href="https://github.com/d2l-ai" target="_blank">open-source</a> textbook,
@@ -65,6 +65,7 @@ In *arXiv*, 2023<br>
 <a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
 *"Perform a task on smart phones? Train an agent using screenshots."*
 In *arXiv*, 2023<br>
+<a href="https://twitter.com/astonzhangAZ/status/1705235421280797111" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
