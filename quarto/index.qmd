@@ -16,7 +16,7 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is a research scientist at Meta Generative AI, designing and training large models.
+**Aston Zhang** is a research scientist at Meta Generative AI, building large models.
 Previously, he studied language models and multimodality for AI at Amazon Web Services AI Research.
 He received an <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 an ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award Nomination.
