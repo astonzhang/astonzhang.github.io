@@ -12,6 +12,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/astonzhang
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=WXOaxKMAAAAJ
 ---
 
 :::{#az-heading}
