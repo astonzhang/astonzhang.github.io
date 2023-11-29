@@ -29,7 +29,7 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 
 :::
 
-*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research in 2024, just <a href="img/email.png" target="_blank">email me</a>.*
+*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research, just <a href="img/email.png" target="_blank">email me</a>. You'll be working with <a href="https://scholar.google.com/citations?user=SnQnQicAAAAJ" target="_blank">Mike Lewis</a> and me in 2024.*
 
 
 ## Books
