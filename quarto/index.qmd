@@ -7,13 +7,12 @@ about:
   image-shape: rounded
   links:
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/astonzhangAZ
+    - icon: bi-envelope
+      href: img/email.png
     - icon: github
-      text: GitHub
       href: https://github.com/astonzhang
     - icon: google
-      text: Scholar
       href: https://scholar.google.com/citations?user=WXOaxKMAAAAJ
 ---
 
@@ -30,7 +29,7 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 
 :::
 
-*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research, just email me (you'll be working with <a href="https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en" target="_blank">Mike</a> and me).*
+*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research in 2024, just <a href="img/email.png" target="_blank">email me</a>.*
 
 
 ## Books
