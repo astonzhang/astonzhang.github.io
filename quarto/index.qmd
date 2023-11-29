@@ -30,6 +30,7 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 
 :::
 
+*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research, just email me (you'll be working with <a href="https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en" target="_blank">Mike</a> and me).*
 
 
 ## Books
