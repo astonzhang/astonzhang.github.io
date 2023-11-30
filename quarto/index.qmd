@@ -21,7 +21,7 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is a research scientist at Meta Generative AI, building large language models.
+**Aston Zhang** is a research scientist at Meta Generative AI, building large language models (Llama).
 Prior to this, he was a scientist/manager at Amazon Web Services AI Research,
 studying language and multimodal models.
 He received an <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
@@ -32,7 +32,7 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 
 :::
 
-*<FONT COLOR="#ff0000">I'm hiring</FONT> one Ph.D. research intern at the large language model (Llama) team of Meta GenAI. If you are interested in LLM pre-training and fine-tuning research, just <a href="img/email.png" target="_blank">email me</a>. You'll be working with <a href="https://scholar.google.com/citations?user=SnQnQicAAAAJ" target="_blank">Mike Lewis</a> and me in 2024.*
+*If you are interested in research internship on large language models at the Llama team in 2024, just <a href="img/email.png" target="_blank">email me</a>.*
 
 
 ## Books
