@@ -30,7 +30,9 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 
 :::
 
-*If you are interested in <font color="#ff0000">research internship</font> on large language models with our team in 2024, feel free to <a href="img/email.png" target="_blank">email me</a>.*
+*If you are interested in <a href="https://twitter.com/astonzhangAZ/status/1731698624902402281" target="_blank">research internship</a> on large language models with our team in 2024, feel free to <a href="img/email.png" target="_blank">email me</a>.*
+
+
 
 
 ## Books
