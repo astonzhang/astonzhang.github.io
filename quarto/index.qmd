@@ -40,7 +40,7 @@ He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champ
 * **A. Zhang**, Z. C. Lipton, M. Li, and A. J. Smola<br>
  	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
 	*Cambridge University Press*, 2023<br>
-	* Adopted at 500 universities from 70 countries (on <a href="https://www.amazon.com/Dive-into-Learning-Aston-Zhang/dp/1009389432" target="_blank">Amazon</a>)
+	* Adopted at 500 universities from 70 countries
 	* Featured in the <a href="https://youtu.be/ue9aumC7AAk?t=6856" target="_blank">AWS re:Invent keynote</a> by Swami, Head of AWS AI, Database, and Analytics<br>
 	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
 
