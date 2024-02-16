@@ -14,7 +14,8 @@ about:
       href: https://github.com/astonzhang
     - icon: google
       href: https://scholar.google.com/citations?user=WXOaxKMAAAAJ
-
+    - icon: linkedin
+      href: https://www.linkedin.com/in/astonzhang/
 ---
 
 :::{#az-heading}
