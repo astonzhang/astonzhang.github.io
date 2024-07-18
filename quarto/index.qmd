@@ -20,13 +20,14 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is a research scientist at the <a href="https://llama.meta.com/" target="_blank">Llama</a> team of Meta Generative AI, building <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>.
-Prior to this, he was a scientist/manager at AWS AI Research.
-He received an <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
-an ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award Nomination.
-His <a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a> textbook
+**Aston Zhang** is a research scientist on the <a href="https://llama.meta.com/" target="_blank">Llama</a> team at Meta Generative AI and a core contributor to <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>.
+Previously, he served as a scientist and manager at AWS AI Research.
+His accolades include the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
+the ACM Ubicomp Distinguished Paper Award,
+and an ACM SenSys Best Paper Award nomination.
+His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
-He obtained a Ph.D. in Computer Science from University of Illinois Urbana-Champaign.
+He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign.
 
 :::
 
