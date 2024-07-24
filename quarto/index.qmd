@@ -34,7 +34,7 @@ He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Cham
 ## News
 
 
-* <a href="https://ai.meta.com/blog/meta-llama-3-1/" target="_blank">Llama 3.1 405B</a> is now openly available. Check out <a href="https://x.com/rowancheung/status/1815763595197616155" target="_blank">Mark's insights</a> on Llama 3 and beyond. <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+* <a href="https://ai.meta.com/blog/meta-llama-3-1/" target="_blank">Llama 3.1 405B</a> is now openly available. Explore <a href="https://x.com/rowancheung/status/1815763595197616155" target="_blank">Mark's insights</a> on Llama 3 and beyond. <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * Meet <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>, our state-of-the-art open source large language model. Check out <a href="https://x.com/AIatMeta/status/1806757387677897206" target="_blank">my developer podcast</a>. <a href="https://x.com/astonzhangAZ/status/1780990210576441844" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * Join us for a 2024 research internship (filled, see you next time). <a href="https://twitter.com/astonzhangAZ/status/1731698624902402281" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a> 
 
