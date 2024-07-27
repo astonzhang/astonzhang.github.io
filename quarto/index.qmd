@@ -61,7 +61,7 @@ He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Cham
 ## Papers ([All](papers.qmd))
 
 * Llama Team, AI@Meta (**Core Contributor**)<br>
-<a href="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452256780_3788187148167392_9020150332553839453_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=XG3_BvYG0wwQ7kNvgGBgyGR&_nc_ht=scontent-sjc3-1.xx&oh=00_AYDGOU8907donbx_n2EYOzFU-h4VJxtA_EjJbiFVm7qnaA&oe=66A5A0DC" target="_blank">The Llama 3 Herd of Models</a><br>
+<a href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/" target="_blank">The Llama 3 Herd of Models</a><br>
 2024<br>
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
