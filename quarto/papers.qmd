@@ -2,6 +2,15 @@
 title: "Papers"
 ---
 
+* M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten (\*Equal contribution)<br>
+<a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
+*"Cross-capability performance is limited by the weakest underlying capability."*
+In *arXiv*, 2024<br>
+<a href="https://twitter.com/astonzhangAZ/" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+<a href="https://github.com/facebookresearch/llm-cross-capabilities" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+<a href="https://www.llm-cross-capabilities.org" target="_blank">llm-cross-capabilities.org</a>
+
+
 * Llama Team, AI@Meta (**Core Contributor**)<br>
 <a href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/" target="_blank">The Llama 3 Herd of Models</a><br>
 2024<br>
