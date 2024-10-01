@@ -6,7 +6,7 @@ title: "Papers"
 <a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
 *"Cross-capability performance is limited by the weakest underlying capability."*
 In *arXiv*, 2024<br>
-<a href="https://twitter.com/astonzhangAZ/" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+<a href="https://x.com/astonzhangAZ/status/1841131443420008918" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/facebookresearch/llm-cross-capabilities" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 <a href="https://www.llm-cross-capabilities.org" target="_blank">llm-cross-capabilities.org</a>
 
