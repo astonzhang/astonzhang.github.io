@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Aston Zhang",
     "section": "",
-    "text": "Aston Zhang is a research scientist on the Llama team at Meta Generative AI and a core contributor to Llama 3. Previously, he served as a scientist and manager at AWS AI Research. His accolades include the ICLR Outstanding Paper Award, the ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award nomination. His textbook, “Dive into Deep Learning,” is adopted worldwide. He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign."
+    "text": "Aston Zhang is a research scientist on the Llama team at Meta Generative AI and a core contributor to Llama 3. Previously, he served as a scientist and manager at AWS AI Research. His accolades include the ICLR Outstanding Paper Award, the ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award nomination. His textbook, “Dive into Deep Learning,” is adopted worldwide. He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign.\nCurrent focus: modeling, long context, pretraining (Llama 4)."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Aston Zhang",
     "section": "News",
-    "text": "News\n\nJoin us for a 2025 research internship! I’m hiring early this year so just email me.\nLlama 3.1 405B is now openly available. \nMeet Llama 3, our state-of-the-art open source large language model. Check out my developer podcast."
+    "text": "News\n\nJoin us for a 2025 research internship! Just email me if you are interested in improving Llama with our team.\nLlama 3.1 405B is now openly available. \nMeet Llama 3, our state-of-the-art open source large language model. Check out my developer podcast."
   },
   {
     "objectID": "index.html#books",
