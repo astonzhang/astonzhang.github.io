@@ -29,7 +29,7 @@ His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning<
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
 He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign.
 
-Current focus: modeling, long context, pretraining (Llama 4).
+Current focus: Pre-Training Architectures & Scaling, Long Context (Llama 4).
 
 
 
