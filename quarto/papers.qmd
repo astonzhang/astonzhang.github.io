@@ -10,12 +10,24 @@ In *arXiv*, 2024<br>
 <a href="https://github.com/facebookresearch/llm-cross-capabilities" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 <a href="https://www.llm-cross-capabilities.org" target="_blank">llm-cross-capabilities.org</a>
 
-
 * Llama Team, AI@Meta (**Core Contributor**)<br>
 <a href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/" target="_blank">The Llama 3 Herd of Models</a><br>
 2024<br>
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
+
+* J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
+<a href="#">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
+*"Understand preference learning with rejection sampling and Monte Carlo Tree Search."*
+In *arXiv*, 2024<br>
+
+* Y. Yu, Z. Chen, **A. Zhang**, L. Tan, C. Zhu, R. Y. Pang, Y. Qian, X. Wang, S. Gururangan, C. Zhang, M. Kambadur, D. Mahajan, and R. Hou<br>
+<a href="#">Self-critiquing Improves Reward Modeling for Large Language Models</a><br>
+*"Predicting both critiques and the scalar reward improves reward modeling."*
+In *arXiv*, 2024<br>
+
+
+
 
 
 * Z. Zhang and **A. Zhang**<br>
@@ -150,132 +162,132 @@ In *Proceedings of International Conference on Machine Learning* (**ICML**), 202
 <a href="https://github.com/VITA-Group/Unified-LTH-GNN" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * H. Shao, Z. Xiao, S. Yao, D. Sun, **A. Zhang**, S. Liu, T. Wang, J. Li, and T. Abdelzaher<br>
-**ControlVAE: Tuning, Analytical Properties, and Performance Analysis**<br>
+<a href="#">ControlVAE: Tuning, Analytical Properties, and Performance Analysis</a><br>
 In *Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2021
 
 * **A. Zhang**, A. Chan, Y. Tay, J. Fu, S. Wang, S. Zhang, H. Shao, S. Yao, and R. Lee<br>
-**On Orthogonality Constraints for Transformers**<br>
+<a href="#">On Orthogonality Constraints for Transformers</a><br>
 In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics* (**ACL, Oral**), 2021
 
 * H. Shao, J. Wang, H. Lin, X. Zhang, **A. Zhang**, H. Ji, and T. Abdelzaher<br>
-**Controllable and Diverse Text Generation in E-commerce**<br>
+<a href="#">Controllable and Diverse Text Generation in E-commerce</a><br>
 In *Proceedings of the Web Conference* (**WWW**), 2021
 
 * S. Zhang, H. Liu, **A. Zhang**, Y. Hu, C. Zhang, Y. Li, T. Zhu, S. He, and W. Ou<br>
-**Learning User Representations with Hypercuboids for Recommender Systems**<br>
+<a href="#">Learning User Representations with Hypercuboids for Recommender Systems</a><br>
 In *Proceedings of the 14th International Conference on Web Search and Data Mining* (**WSDM**), 2021
 
 
 * H. Shao, S. Yao, D. Sun, **A. Zhang**, S. Liu, D. Liu, J. Wang, and T. Abdelzaher<br>
-**ControlVAE: Controllable Variational Autoencoder**<br>
+<a href="#">ControlVAE: Controllable Variational Autoencoder</a><br>
 In *Proceedings of International Conference on Machine Learning* (**ICML**), 2020
 
 * J. Guo, H. He, T. He, L. Lausen, M. Li, H. Lin, X. Shi, C. Wang, J. Xie, S. Zha, **A. Zhang**, H. Zhang, Z. Zhang, Z. Zhang, S. Zheng, and Y. Zhu<br>
-**GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing**<br>
+<a href="#">GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing</a><br>
 In *Journal of Machine Learning Research* (**JMLR**), Vol. 21, No. 23, 2020
 
 * A. Chan, Y. Tay, Y. S. Ong, and **A. Zhang**<br>
-**Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder**<br>
+<a href="#">Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder</a><br>
 In *Findings of Empirical Methods in Natural Language Processing* (**EMNLP**), 2020
 
 * H. Shao, D. Sun, J. Wu, Z. Zhang, **A. Zhang**, S. Yao, S. Liu, T. Wang, C. Zhang, and T. Abdelzaher<br>
-**GitHub Repository Recommendation for Academic Papers**<br>
+<a href="#">GitHub Repository Recommendation for Academic Papers</a><br>
 In *Proceedings of the Web Conference* (**WWW**), 2020
 
 
 * Y. Tay, A. T. Luu, **A. Zhang**, S. Wang, and S. C. Hui<br>
-**Compositional De-Attention Networks**<br>
+<a href="#">Compositional De-Attention Networks</a><br>
 In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2019
 
 * S. Zhang, L. Yao, L. V. Tran, **A. Zhang**, and Y. Tay<br>
-**Quaternion Collaborative Filtering for Recommendation**<br>
+<a href="#">Quaternion Collaborative Filtering for Recommendation</a><br>
 In *Proceedings of the 28th International Joint Conference on Artificial Intelligence* (**IJCAI**), 2019
 
 * Y. Tay, **A. Zhang**, A. T. Luu, J. Rao, S. Zhang, S. Wang, J. Fu, and S. C. Hui<br>
-**Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks**<br>
+<a href="#">Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</a><br>
 In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2019
 
 * Y. Tay, S. Wang, A. T. Luu, J. Fu, M. C. Phan, X. Yuan, J. Rao, S. C. Hui, and **A. Zhang**<br>
-**Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**<br>
+<a href="#">Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives</a><br>
 In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2019
 
 * A. El-Kishky, F. Xu, **A. Zhang**, and J. Han<br>
-**Parsimonious Morpheme Segmentation with an Application to Enriching Word Embeddings**<br>
+<a href="#">Parsimonious Morpheme Segmentation with an Application to Enriching Word Embeddings</a><br>
 In *Proceedings of the IEEE International Conference on Big Data* (**IEEE BigData**), 2019
 
 
 * S. Yao, Y. Zhao, **A. Zhang**, S. Hu, H. Shao, C. Zhang, L. Su, and T. Abdelzaher<br>
-**Deep Learning for the Internet of Things**<br>
+<a href="#">Deep Learning for the Internet of Things</a><br>
 In *Computer*, 2018 (selected as May 2018 cover feature of the flagship magazine of the IEEE Computer Society)
 
 * A. El-Kishky, F. Xu, **A. Zhang**, S. Macke, and J. Han<br>
-**Entropy-Based Subword with an Application to Word Embeddings**<br>
+<a href="#">Entropy-Based Subword with an Application to Word Embeddings</a><br>
 In *Proceedings of the 2nd Workshop on Subword and Character Level Models in NLP at the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (**NAACL SCLeM**), 2018
 
 * S. Yao, Y. Zhao, H. Shao, C. Zhang, **A. Zhang**, S. Hu, D. Liu, S. Liu, L. Su, and T. F. Abdelzaher<br>
-**SenseGAN: Enabling Deep Learning for Internet of Things with a Semi-Supervised Framework**<br>
+<a href="#">SenseGAN: Enabling Deep Learning for Internet of Things with a Semi-Supervised Framework</a><br>
 In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (**ACM Ubicomp, <font color="red">Distinguished Paper Award</font>**), 2018
 
 * **A. Zhang**, X. Lu, C. A. Gunter, S. Yao, F. Tao, R. Zhu, H. Gui, D. Fabbri, D. Liebovitz, and B. Malin<br>
-**De Facto Diagnosis Specialties: Recognition and Discovery**<br>
+<a href="#">De Facto Diagnosis Specialties: Recognition and Discovery</a><br>
 In *Learning Health Systems* (**LHS**), 2018
 
 * S. Yao, Y. Zhao, H. Shao, C. Zhang, **A. Zhang**, D. Liu, S. Liu, L. Su, and T. Abdelzaher<br>
-**ApDeepSense: Deep Learning Uncertainty Estimation Without the Pain for IoT**<br>
+<a href="#">ApDeepSense: Deep Learning Uncertainty Estimation Without the Pain for IoT</a><br>
 In *Proceedings of the 38th IEEE International Conference on Distributed Computing Systems* (**ICDCS**), 2018
 
 * **A. Zhang**, L. Garcia-Pueyo, J. B. Wendt, M. Najork, and A. Broder<br>
-**Email Category Prediction**<br>
+<a href="#">Email Category Prediction</a><br>
 In *Proceedings of the 26th International World Wide Web Conference * (**WWW**), 2017
 
 * S. Yao, S. Hu, Y. Zhao, **A. Zhang**, and T. Abdelzaher<br>
-**DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing**<br>
+<a href="#">DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing</a><br>
 In *Proceedings of the 26th International World Wide Web Conference* (**WWW**), 2017
 
 * S. Yao, Y. Zhao, **A. Zhang**, S. Lu, and T. Abdelzaher<br>
-**DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems without Loss of Performance**<br>
+<a href="#">DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems without Loss of Performance</a><br>
 In *Proceedings of the 15th ACM Conference on Embedded Networked Sensor Systems* (**ACM Sensys, <font color="red">Best Paper Award Nomination</font>**), 2017
 
 * S. Yao, Y. Zhao, H. Shao, **A. Zhang**, C. Zhang, S. Li, and T. Abdelzaher<br>
-**RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations**<br>
+<a href="#">RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations</a><br>
 In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (**ACM Ubicomp**), 2017
 
 * **A. Zhang**, A. Goyal, R. Baeza-Yates, Y. Chang, J. Han, C. A. Gunter, and H. Deng<br>
-**Towards Mobile Query Auto-Completion: An Efficient Mobile Application-Aware Approach**<br>
+<a href="#">Towards Mobile Query Auto-Completion: An Efficient Mobile Application-Aware Approach</a><br>
 In *Proceedings of the 25th International World Wide Web Conference* (**WWW**), 2016
 
 * **A. Zhang** and Q. Gu<br>
-**Accelerated Stochastic Block Coordinate Descent with Optimal Sampling** [<a href="papers/supp_asbcd.pdf" target="_blank">Proof of Lemmas</a>]<br>
+<a href="#">Accelerated Stochastic Block Coordinate Descent with Optimal Sampling</a> [<a href="papers/supp_asbcd.pdf" target="_blank">Proof of Lemmas</a>]<br>
 In *Proceedings of the 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2016
 
 * S. Demetriou, W. Merrill, W. Yang, **A. Zhang**, and C. A. Gunter<br>
-**Free for All! Assessing User Data Exposure to Advertising Libraries on Android**<br>
+<a href="#">Free for All! Assessing User Data Exposure to Advertising Libraries on Android</a><br>
 In *Proceedings of the Network and Distributed System Security Symposium* (**NDSS**), 2016
 
 * R. Zhu, **A. Zhang**, J. Peng, and C. Zhai<br>
-**Exploiting Temporal Divergence of Topic Distributions for Event Detection**<br>
+<a href="#">Exploiting Temporal Divergence of Topic Distributions for Event Detection</a><br>
 In *Proceedings of the IEEE International Conference on Big Data* (**IEEE BigData**), 2016
 
 * **A. Zhang**, A. Goyal, W. Kong, H. Deng, A. Dong, Y. Chang, C. A. Gunter, and J. Han<br>
-**adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback**<br>
+<a href="#">adaQAC: Adaptive Query Auto-Completion via Implicit Negative Feedback</a><br>
 In *Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval* (**SIGIR**), 2015
 
 * W. Kong, R. Li, J. Luo, **A. Zhang**, Y. Chang, and J. Allan<br>
-**Predicting Search Intent Based on Pre-Search Context**<br>
+<a href="#">Predicting Search Intent Based on Pre-Search Context</a><br>
 In *Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval* (**SIGIR**), 2015
 
 * H. Fu, **A. Zhang**, and X. Xie<br>
-**Effective Social Graph De-anonymization based on Graph Structure and Descriptive Information**<br>
+<a href="#">Effective Social Graph De-anonymization based on Graph Structure and Descriptive Information</a><br>
 In *ACM Transactions on Intelligent Systems and Technology* (**ACM TIST**), Vol. 6, No. 4, 2015
 
 * X. Lu, **A. Zhang**, C. A. Gunter, D. Fabbri, D. Liebovitz, and B. Malin<br>
-**Discovering De Facto Diagnosis Specialties**<br>
+<a href="#">Discovering De Facto Diagnosis Specialties</a><br>
 In *Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics* (**ACM BCB**), 2015
 
 * **A. Zhang**, X. Xie, K. C.-C. Chang, C. A. Gunter, J. Han, and X. Wang<br>
-**Privacy Risk in Anonymized Heterogeneous Information Networks**<br>
+<a href="#">Privacy Risk in Anonymized Heterogeneous Information Networks</a><br>
 In *Proceedings of the 17th International Conference on Extending Database Technology* (**EDBT**), 2014
 
 * H. Fu, **A. Zhang**, and X. Xie<br>
-**De-anonymizing Social Graphs via Node Similarity**<br>
+<a href="#">De-anonymizing Social Graphs via Node Similarity</a><br>
 In *Proceedings of the 23rd International World Wide Web Conference* (**WWW**), 2014
