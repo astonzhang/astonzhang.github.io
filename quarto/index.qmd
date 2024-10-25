@@ -41,7 +41,7 @@ Current research: pre-training architectures & scaling, long context (Llama 4).
 
 ## News
 
-* Join our Llama team for a 2025 research internship! Just email me if you are interested. <a href="https://x.com/astonzhangAZ/status/1843327816055795745" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
+* [<span style="color:red;">Hiring</span>] Join our Llama team for a 2025 research internship! Just <span style="color:orange;">email me</span> if you are interested. <a href="https://x.com/astonzhangAZ/status/1843327816055795745" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * <a href="https://ai.meta.com/blog/meta-llama-3-1/" target="_blank">Llama 3.1 405B</a> is now openly available. <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * Meet <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>, our state-of-the-art open source large language model. Check out <a href="https://x.com/AIatMeta/status/1806757387677897206" target="_blank">my developer podcast</a>. <a href="https://x.com/astonzhangAZ/status/1780990210576441844" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 
