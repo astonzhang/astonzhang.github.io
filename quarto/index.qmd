@@ -84,6 +84,12 @@ In *arXiv*, 2024<br>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 
+* J. Ji, **A. Zhang**, C. Zhu, S. Wang, M. Kambadur, S. Chang, and W. Xiong<br>
+<a href="#">Pruning Computations in Transformer Prefilling for Large Language Models</a><br>
+*"Speed up Transfomer prefilling for generation via a learnable router."*
+In *arXiv*, 2024<br>
+
+
 * J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
 <a href="#">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
 *"Understand preference learning with rejection sampling and Monte Carlo Tree Search."*
