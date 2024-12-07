@@ -16,13 +16,20 @@ In *arXiv*, 2024<br>
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
+* J. Ji, **A. Zhang**, C. Zhu, S. Wang, M. Kambadur, S. Chang, and W. Xiong<br>
+<a href="#">Pruning Computations in Transformer Prefilling for Large Language Models</a><br>
+*"Speed up Transfomer prefilling for generation via a learnable router."*
+In *arXiv*, 2024<br>
+
+
 * J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
 <a href="#">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
 *"Understand preference learning with rejection sampling and Monte Carlo Tree Search."*
 In *arXiv*, 2024<br>
 
+
 * Y. Yu, Z. Chen, **A. Zhang**, L. Tan, C. Zhu, R. Y. Pang, Y. Qian, X. Wang, S. Gururangan, C. Zhang, M. Kambadur, D. Mahajan, and R. Hou<br>
-<a href="#">Self-critiquing Improves Reward Modeling for Large Language Models</a><br>
+<a href="https://arxiv.org/abs/2411.16646">Self-Generated Critiques Boost Reward Modeling for Language Models</a><br>
 *"Predicting both critiques and the scalar reward improves reward modeling."*
 In *arXiv*, 2024<br>
 

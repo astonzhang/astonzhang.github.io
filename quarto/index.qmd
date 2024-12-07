@@ -97,11 +97,9 @@ In *arXiv*, 2024<br>
 
 
 * Y. Yu, Z. Chen, **A. Zhang**, L. Tan, C. Zhu, R. Y. Pang, Y. Qian, X. Wang, S. Gururangan, C. Zhang, M. Kambadur, D. Mahajan, and R. Hou<br>
-<a href="#">Self-critiquing Improves Reward Modeling for Large Language Models</a><br>
+<a href="https://arxiv.org/abs/2411.16646">Self-Generated Critiques Boost Reward Modeling for Language Models</a><br>
 *"Predicting both critiques and the scalar reward improves reward modeling."*
 In *arXiv*, 2024<br>
-
-
 
 
 
