@@ -70,37 +70,32 @@ Current research: pre-training architectures & scaling, long context (Llama 4).
 
 * M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten (\*equal contribution)<br>
 <a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
-*"Cross-capability performance is limited by the weakest underlying capability."*<br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2025<br>
 <a href="https://x.com/astonzhangAZ/status/1841131443420008918" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/facebookresearch/llm-cross-capabilities" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 <a href="https://www.llm-cross-capabilities.org" target="_blank">llm-cross-capabilities.org</a>
 
 
+* J. Ji, **A. Zhang**, C. Zhu, S. Wang, M. Kambadur, S. Chang, and W. Xiong<br>
+<a href="#">Pruning Computations in Transformer Prefilling for Large Language Models</a><br>
+*"Speed up Transfomer prefilling for generation via a learnable router."*
+In *arXiv*, 2025<br>
+
+
+* J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
+<a href="https://arxiv.org/abs/2412.15282">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
+In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics* (**NAACL**), 2025<br>
+
+
+* Y. Yu, Z. Chen, **A. Zhang**, L. Tan, C. Zhu, R. Y. Pang, Y. Qian, X. Wang, S. Gururangan, C. Zhang, M. Kambadur, D. Mahajan, and R. Hou<br>
+<a href="https://arxiv.org/abs/2411.16646">Self-Generated Critiques Boost Reward Modeling for Language Models</a><br>
+In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics* (**NAACL**), 2025<br>
+
 * Llama Team, AI@Meta (**Core Contributor**)<br>
 <a href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/" target="_blank">The Llama 3 Herd of Models</a><br>
 2024<br>
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
-
-* J. Ji, **A. Zhang**, C. Zhu, S. Wang, M. Kambadur, S. Chang, and W. Xiong<br>
-<a href="#">Pruning Computations in Transformer Prefilling for Large Language Models</a><br>
-*"Speed up Transfomer prefilling for generation via a learnable router."*
-In *arXiv*, 2024<br>
-
-
-* J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
-<a href="#">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
-*"Understand preference learning with rejection sampling and Monte Carlo Tree Search."*
-In *arXiv*, 2024<br>
-
-
-* Y. Yu, Z. Chen, **A. Zhang**, L. Tan, C. Zhu, R. Y. Pang, Y. Qian, X. Wang, S. Gururangan, C. Zhang, M. Kambadur, D. Mahajan, and R. Hou<br>
-<a href="https://arxiv.org/abs/2411.16646">Self-Generated Critiques Boost Reward Modeling for Language Models</a><br>
-*"Predicting both critiques and the scalar reward improves reward modeling."*
-In *arXiv*, 2024<br>
-
 
 
 * Z. Zhang and **A. Zhang**<br>
