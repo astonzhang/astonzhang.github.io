@@ -31,7 +31,9 @@ In *Annual Conference of the Nations of the Americas Chapter of the Association 
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-
+* Z. Zhang, Y. Yao, **A. Zhang**, X. Tang, X. Ma, Z. He, Y. Wang, M. Gerstein, R. Wang, G. Liu, and H. Zhao<br>
+<a href="https://arxiv.org/abs/2311.11797">Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</a><br>
+In *ACM Computing Surveys* (**CSUR**), 2024<br>
 
 
 
