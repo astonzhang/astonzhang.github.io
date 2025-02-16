@@ -20,16 +20,16 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is a research scientist on the <a href="https://llama.meta.com/" target="_blank">Llama</a> team at Meta Generative AI, where he leads long context of Llama 4 and is a core contributor to <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>.
+**Aston Zhang** is a research scientist at Meta, where he leads long context of Llama 4 and is a core contributor to <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>.
 Previously, he served as a scientist and manager at AWS AI Research.
 His accolades include the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 the ACM Ubicomp Distinguished Paper Award,
 and an ACM SenSys Best Paper Award nomination.
 His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
-He holds a Ph.D. in Computer Science from the University of Illinois Urbana-Champaign.
+He holds a Ph.D. in Computer Science from UIUC.
 
-Current research: pre-training architectures & scaling, long context (Llama 4).
+Research: long context, pre-training architectures & scaling
 
 
 
