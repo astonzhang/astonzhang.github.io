@@ -25,29 +25,41 @@ In *Annual Conference of the Nations of the Americas Chapter of the Association 
 <a href="https://arxiv.org/abs/2411.16646">Self-Generated Critiques Boost Reward Modeling for Language Models</a><br>
 In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics* (**NAACL**), 2025<br>
 
+
+
+* X. Ma, Y. Wang, Y. Yao, T. Yuan, **A. Zhang**, Z. Zhang, and H. Zhao<br>
+<a href="https://arxiv.org/abs/2408.02544">Caution for the Environment: LLM Agents Are Susceptible to Environmental Distractions</a><br>
+In *Association for Computational Linguisticss* (**ACL**), 2025<br>
+
+* P. Cheng, Z. Wu, Z. Wu, T. Ju, **A. Zhang**, Z. Zhang, and G. Liu<br>
+<a href="https://arxiv.org/abs/2503.16465">OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents</a><br>
+In *Findings of the Association for Computational Linguisticss* (**ACL**), 2025<br>
+
+
+* Z. Zhang, Y. Yao, **A. Zhang**, X. Tang, X. Ma, Z. He, Y. Wang, M. Gerstein, R. Wang, G. Liu, and H. Zhao<br>
+<a href="https://arxiv.org/abs/2311.11797">Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</a><br>
+In *ACM Computing Surveys* (**CSUR**), 2024<br>
+
 * Llama Team, AI@Meta (**Core Contributor**)<br>
 <a href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/" target="_blank">The Llama 3 Herd of Models</a><br>
 2024<br>
 <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/meta-llama/llama-models" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
-* Z. Zhang, Y. Yao, **A. Zhang**, X. Tang, X. Ma, Z. He, Y. Wang, M. Gerstein, R. Wang, G. Liu, and H. Zhao<br>
-<a href="https://arxiv.org/abs/2311.11797">Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</a><br>
-In *ACM Computing Surveys* (**CSUR**), 2024<br>
+
 
 
 
 
 * Z. Zhang and **A. Zhang**<br>
 <a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
-*"Perform a task on smart phones? Train an agent using screenshots."*
-In *arXiv*, 2023<br>
+In *Findings of the Association for Computational Linguistics* (**ACL**), 2024<br>
 <a href="https://twitter.com/astonzhangAZ/status/1705235421280797111" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * Z. Zhang, **A. Zhang**, M. Li, H. Zhao, G. Karypis, and A. J. Smola<br>
 	<a href="https://arxiv.org/abs/2302.00923" target="_blank">Multimodal Chain-of-Thought Reasoning in Language Models</a><br>
-	In *Transactions on Machine Learning Research*, 2023<br>
+	In *Transactions on Machine Learning Research*  (**TMLR**), 2024<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1621545166049005568" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 	<a href="img/mm-cot-idea.png" target="_blank">[Idea Inspiration by Homeschooling]</a>
