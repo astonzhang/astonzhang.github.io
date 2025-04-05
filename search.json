@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Aston Zhang",
     "section": "",
-    "text": "Aston Zhang is a research scientist at Meta, where he leads long context of Llama and is a core contributor to Llama 3. Previously, he served as a scientist and manager at AWS AI Research. His accolades include the ICLR Outstanding Paper Award, the ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award nomination. His textbook, “Dive into Deep Learning,” is adopted worldwide. He holds a Ph.D. in Computer Science from UIUC.\nResearch: long context, pre-training architectures & scaling"
+    "text": "Aston Zhang leads long context of Llama at Meta. His recent contributions include Llama 4’s industry leading 10M+ multimodal context with the iRoPE architecture.\nHis accolades include the ICLR Outstanding Paper Award, the ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award nomination. His textbook, “Dive into Deep Learning,” is adopted worldwide. He holds a Ph.D. in Computer Science from UIUC.\nResearch: long context, modeling & scaling, pre-training"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Aston Zhang",
     "section": "News",
-    "text": "News\n\nJoin our Llama team for a 2025 research internship! Just email me (position filled, see you next year). \nLlama 3.1 405B is now openly available. \nMeet Llama 3, our state-of-the-art open source large language model. Check out my developer podcast."
+    "text": "News\n\nExcited to share Llama 4’s industry leading 10M+ multimodal context (20+ hours of video) with the iRoPE architecture! \nJoin our Llama team for a 2025 research internship! Just email me (position filled, see you next year). \nLlama 3.1 405B is now openly available. \nMeet Llama 3, our state-of-the-art open source large language model. Check out my developer podcast."
   },
   {
     "objectID": "index.html#books",
