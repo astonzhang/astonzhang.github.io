@@ -15,7 +15,7 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** leads long context of <a href="https://www.llama.com/" target="_blank">Llama</a> at Meta. His recent contributions include <a href="https://x.com/astonzhangAZ/status/1908595612372885832" target="_blank">Llama 4's industry leading 10M+ multimodal context with the iRoPE architecture</a>.
+**Aston Zhang** is the long context lead of <a href="https://www.llama.com/" target="_blank">Llama</a> at Meta. His recent contributions include <a href="https://x.com/astonzhangAZ/status/1908595612372885832" target="_blank">Llama 4's industry leading 10M+ multimodal context with the iRoPE architecture</a>.
 
 His accolades include the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 the ACM Ubicomp Distinguished Paper Award,
@@ -23,8 +23,6 @@ and an ACM SenSys Best Paper Award nomination.
 His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
 He holds a Ph.D. in Computer Science from UIUC.
-
-Research: long context, modeling & scaling, pre-training
 
 
 
@@ -37,7 +35,6 @@ Research: long context, modeling & scaling, pre-training
 ## News
 
 * Excited to share <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/" target="_blank">Llama 4</a>’s industry leading 10M+ multimodal context (20+ hours of video) with the iRoPE architecture! <a href="https://x.com/astonzhangAZ/status/1908595612372885832" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
-* Join our Llama team for a 2025 research internship! Just email me (position filled, see you next year). <a href="https://x.com/astonzhangAZ/status/1843327816055795745" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * <a href="https://ai.meta.com/blog/meta-llama-3-1/" target="_blank">Llama 3.1 405B</a> is now openly available. <a href="https://x.com/astonzhangAZ/status/1815763885380747422" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 * Meet <a href="https://ai.meta.com/blog/meta-llama-3/" target="_blank">Llama 3</a>, our state-of-the-art open source large language model. Check out <a href="https://x.com/AIatMeta/status/1806757387677897206" target="_blank">my developer podcast</a>. <a href="https://x.com/astonzhangAZ/status/1780990210576441844" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 
