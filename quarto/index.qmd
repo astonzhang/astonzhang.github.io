@@ -10,12 +10,7 @@ about:
       href: https://twitter.com/astonzhangAZ
     - icon: bi-envelope
       href: img/email.png
-    - icon: github
-      href: https://github.com/astonzhang
-    - icon: google
-      href: https://scholar.google.com/citations?user=WXOaxKMAAAAJ
-    - icon: linkedin
-      href: https://www.linkedin.com/in/astonzhang/
+
 ---
 
 :::{#az-heading}
