@@ -15,12 +15,12 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** is the long context lead of <a href="https://www.llama.com/" target="_blank">Llama</a> at Meta. His recent contributions include Llama 4's 10M-token <a href="https://video.twimg.com/amplify_video/1912183288329908225/vid/avc1/2048x1080/GmFJ_4i-QUBuqytV.mp4" target="_blank">multimodal context</a> with the <a href="https://x.com/astonzhangAZ/status/1908595612372885832" target="_blank">iRoPE</a> architecture. His work has been recognized with the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
+**Aston Zhang** is the long context lead of Llama at Meta. His recent contributions include Llama 4's 10M-token <a href="https://video.twimg.com/amplify_video/1912183288329908225/vid/avc1/2048x1080/GmFJ_4i-QUBuqytV.mp4" target="_blank">multimodal context</a> with the <a href="https://x.com/astonzhangAZ/status/1908595612372885832" target="_blank">iRoPE</a> architecture. His work has been recognized with the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 the ACM Ubicomp Distinguished Paper Award,
 and an ACM SenSys Best Paper Award nomination.
 His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
-He holds a Ph.D. in Computer Science from UIUC.
+He earned his Ph.D. in Computer Science from UIUC.
 
 
 
@@ -67,12 +67,6 @@ In *Proceedings of the International Conference on Learning Representations* (**
 <a href="https://www.llm-cross-capabilities.org" target="_blank">llm-cross-capabilities.org</a>
 
 
-* J. Ji, **A. Zhang**, C. Zhu, S. Wang, M. Kambadur, S. Chang, and W. Xiong<br>
-<a href="#">Pruning Computations in Transformer Prefilling for Large Language Models</a><br>
-*"Speed up Transfomer prefilling for generation via a learnable router."*
-In *arXiv*, 2025<br>
-
-
 * J. Kim, A. Goyal, **A. Zhang**, B. Xiong, R. Hou, M. Kambadur, D. Mahajan, H. Hajishirzi, and L. Tan<br>
 <a href="https://arxiv.org/abs/2412.15282">A Systematic Examination of Preference Learning through the Lens of Instruction-Following</a><br>
 In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics* (**NAACL**), 2025<br>
@@ -91,14 +85,13 @@ In *Annual Conference of the Nations of the Americas Chapter of the Association 
 
 * Z. Zhang and **A. Zhang**<br>
 <a href="https://arxiv.org/abs/2309.11436" target="_blank">You Only Look at Screens: Multimodal Chain-of-Action Agents</a><br>
-*"Perform a task on smart phones? Train an agent using screenshots."*
-In *arXiv*, 2023<br>
+In *Findings of the Association for Computational Linguistics* (**ACL**), 2024<br>
 <a href="https://twitter.com/astonzhangAZ/status/1705235421280797111" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 <a href="https://github.com/cooelf/Auto-UI" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * Z. Zhang, **A. Zhang**, M. Li, H. Zhao, G. Karypis, and A. J. Smola<br>
 	<a href="https://arxiv.org/abs/2302.00923" target="_blank">Multimodal Chain-of-Thought Reasoning in Language Models</a><br>
-	In *Transactions on Machine Learning Research*, 2023<br>
+	In *Transactions on Machine Learning Research*  (**TMLR**), 2024<br>
 	<a href="https://twitter.com/astonzhangAZ/status/1621545166049005568" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 	<a href="img/mm-cot-idea.png" target="_blank">[Idea Inspiration by Homeschooling]</a>
@@ -133,14 +126,6 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 	<a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
-* C. Qin, **A. Zhang**, Z. Zhang, J. Chen, M. Yasunaga, and D. Yang<br>
-<a href="https://arxiv.org/abs/2302.06476" target="_blank">Is ChatGPT a General-Purpose Natural Language Processing Task Solver?</a><br>
-In *Empirical Methods in Natural Language Processing* (**EMNLP**), 2023<br>
-
-* J. Chen, **A. Zhang**, D. Yang, M. Li, and A. J. Smola<br>
-<a href="https://arxiv.org/abs/2304.04746" target="_blank">A Cheaper and Better Diffusion Language Model with Soft-Masked Noise</a><br>
-In *Empirical Methods in Natural Language Processing* (**EMNLP**), 2023<br>
-<a href="https://github.com/amazon-science/masked-diffusion-lm" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
 	<a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
