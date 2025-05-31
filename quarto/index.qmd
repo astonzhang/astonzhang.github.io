@@ -153,18 +153,6 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 	**Attention in Deep Learning** [<a href="http://alex.smola.org/talks/ICML19-attention.key" target="_blank">Keynote</a>] [<a href="http://alex.smola.org/talks/ICML19-attention.pdf" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=nS1Lse2B48w" target="_blank">Video</a>]<br>
 	In *The 36th International Conference on Machine Learning* (**ICML**), 2019
 
-* with H. Lin, X. Shi, L. Lausen, H. He, S. Zha, and A. J. Smola<br>
-	**Dive into Deep Learning for Natural Language Processing** <br>
-	In *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2019
-
-* with H. Lin, L. Lausen, S. Zha, A. J. Smola, C. Wang, and M. Li<br>
-	**From Shallow to Deep Language Representations: Pre-training, Fine-tuning, and Beyond** [<a href="https://github.com/astonzhang/KDD19-tutorial" target="_blank">Website</a>]<br>
-	In *The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2019
-
-* with H. Zhang, T. He, Z. Zhang, Z. Zhang, H. Lin, and M. Li<br>
-	**Everything You Need to Know to Reproduce SOTA Deep Learning Models from Hands-on Tutorial**<br>
-	In *International Conference on Computer Vision* (**ICCV**), 2019
-
 
 ## Services
 
