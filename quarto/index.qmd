@@ -38,20 +38,15 @@ He earned his Ph.D. from UIUC.
  	<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a><br>
 	*Cambridge University Press*, 2023<br>
 	* Adopted at 500 universities from 70 countries
-	<br>
-	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
-
-* **A. Zhang**, M. Li, Z. C. Lipton, and A. J. Smola<br>
-	<a href="https://zh.d2l.ai" target="_blank">动手学深度学习</a><br>
-	*人民邮电出版社*, 2nd ed., 2023, 1st ed., 2019<br>
 	* <a href="https://raw.githubusercontent.com/d2l-ai/d2l-zh/master/static/frontpage/_images/sales/jd-2023020304-all-ai-zh-4.png" target="_blank">Best seller</a> in China 
 	<br>
-	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="150" height="30" title="GitHub"></iframe>
+	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="120" height="30" title="GitHub"></iframe> <iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="120" height="30" title="GitHub"></iframe>
+
 
 
 ## Papers ([All](papers.qmd))
 
-* M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten (\*equal contribution)<br>
+* M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten<br>
 <a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2025<br>
 <a href="https://x.com/astonzhangAZ/status/1841131443420008918" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
@@ -78,12 +73,6 @@ In *Findings of the Association for Computational Linguistics* (**ACL**), 2024<b
 	<a href="https://github.com/amazon-science/mm-cot" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 	<a href="img/mm-cot-idea.png" target="_blank">[Idea Inspiration by Homeschooling]</a>
 
-* S. Ren, **A. Zhang**, Y. Zhu, S. Zhang, S. Zheng, M. Li, A. J. Smola, X. Sun
-<br>
-<a href="https://arxiv.org/abs/2304.04704" target="_blank">Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</a><br>
-In *Proceedings of the Conference on Neural Information Processing Systems* (**NeurIPS**), 2023<br>
-<a href="https://github.com/amazon-science/prompt-pretraining" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
 * J. Chen, **A. Zhang**, X. Shi, M. Li, A. J. Smola, and D. Yang<br>
 	<a href="https://arxiv.org/abs/2301.01821" target="_blank">Parameter-Efficient Fine-Tuning Design Spaces</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
@@ -99,18 +88,6 @@ In *Proceedings of the Conference on Neural Information Processing Systems* (**N
 * T. Yang, Y. Zhu, Y. Xie, **A. Zhang**, C. Chen, and M. Li<br>
 	<a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
-
-* H. Wang, **A. Zhang**, Y. Zhu, S. Zheng, M. Li, A. J. Smola, and Z. Wang<br>
-	<a href="https://arxiv.org/pdf/2207.01160.pdf" target="_blank">Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</a><br>
-	In *Proceedings of International Conference on Machine Learning* (**ICML, Long Presentation**), 2022<br>
-	<a href="https://twitter.com/astonzhangAZ/status/1549800894840971265" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
-	<a href="https://github.com/amazon-research/long-tailed-ood-detection" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
-
-* H. Wang, **A. Zhang**, S. Zheng, X. Shi, M. Li, and Z. Wang<br>
-	<a href="https://arxiv.org/pdf/2207.01156.pdf" target="_blank">Removing Batch Normalization Boosts Adversarial Training</a><br>
-	In *Proceedings of International Conference on Machine Learning* (**ICML**), 2022<br>
-	<a href="https://twitter.com/astonzhangAZ/status/1549069378250874880" title="Tweet" target="_blank"><img src="./img/logo-twitter.svg" class="paper-icon"></a>
-	<a href="https://github.com/amazon-research/normalizer-free-robust-training" title="Code" target="_blank"><img src="./img/logo-github.svg" class="paper-icon"></a>
 
 * **A. Zhang**, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
 	<a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>
