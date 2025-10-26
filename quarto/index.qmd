@@ -87,6 +87,11 @@ In *Findings of the Association for Computational Linguistics* (**ACL**), 2024<b
 	<a href="https://openreview.net/forum?id=CIoSZ_HKHS7" target="_blank">AIM: Adapting Image Models for Efficient Video Understanding</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2023<br>
 
+* C. Qin, **A. Zhang**, Z. Zhang, J. Chen, M. Yasunaga, and D. Yang<br>
+	<a href="https://arxiv.org/abs/2302.06476" target="_blank">Is ChatGPT a General-Purpose Natural Language Processing Task Solver?</a><br>
+	In *Empirical Methods in Natural Language Processing* (**EMNLP**), 2023<br>
+
+
 * **A. Zhang**, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu<br>
 	<a href="https://arxiv.org/abs/2102.08597" target="_blank">Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters</a><br>
 	In *Proceedings of the International Conference on Learning Representations* (**ICLR, <font color="red">Outstanding Paper Award</font>**), 2021<br>
