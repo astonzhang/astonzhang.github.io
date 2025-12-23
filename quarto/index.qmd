@@ -8,6 +8,12 @@ about:
   links:
     - icon: bi-envelope
       href: img/email.png
+    - icon: twitter
+      href: https://twitter.com/astonzhangAZ
+    - icon: google
+      href: https://scholar.google.com/citations?user=WXOaxKMAAAAJ
+    - icon: linkedin
+      href: https://www.linkedin.com/in/astonzhang/
 
 ---
 
@@ -20,10 +26,6 @@ and an ACM SenSys Best Paper Award nomination.
 His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 is <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
 He earned his Ph.D. from the University of Illinois Urbana-Champaign.
-
-
-
-
 
 
 

@@ -14,13 +14,6 @@
     "text": "Aston Zhang is a member of technical staff at OpenAI. His work has been recognized with the ICLR Outstanding Paper Award, the ACM Ubicomp Distinguished Paper Award, and an ACM SenSys Best Paper Award nomination. His textbook, “Dive into Deep Learning,” is adopted worldwide. He earned his Ph.D. from the University of Illinois Urbana-Champaign."
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Aston Zhang",
-    "section": "News",
-    "text": "News\n\nMeet Llama 3, our state-of-the-art open source large language model. Check out my developer podcast."
-  },
-  {
     "objectID": "index.html#books",
     "href": "index.html#books",
     "title": "Aston Zhang",
@@ -47,12 +40,5 @@
     "title": "Aston Zhang",
     "section": "Services",
     "text": "Services\n\nArea Chair\n\nAnnual Meeting of the Association for Computational Linguistics (ACL)\nConference on Empirical Methods in Natural Language Processing (EMNLP)\nInternational Conference on Computational Linguistics (COLING)"
-  },
-  {
-    "objectID": "index.html#papers-more",
-    "href": "index.html#papers-more",
-    "title": "Aston Zhang",
-    "section": "Papers (More)",
-    "text": "Papers (More)\n\nM. Zhong*, A. Zhang*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten Law of the Weakest Link: Cross Capabilities of Large Language Models In Proceedings of the International Conference on Learning Representations (ICLR), 2025   llm-cross-capabilities.org\nLlama Team, AI@Meta (Core Contributor) The Llama 3 Herd of Models 2024  \nZ. Zhang and A. Zhang You Only Look at Screens: Multimodal Chain-of-Action Agents In Findings of the Association for Computational Linguistics (ACL), 2024  \nZ. Zhang, A. Zhang, M. Li, H. Zhao, G. Karypis, and A. J. Smola Multimodal Chain-of-Thought Reasoning in Language Models In Transactions on Machine Learning Research (TMLR), 2024   [Idea Inspiration by Homeschooling]\nJ. Chen, A. Zhang, X. Shi, M. Li, A. J. Smola, and D. Yang Parameter-Efficient Fine-Tuning Design Spaces In Proceedings of the International Conference on Learning Representations (ICLR), 2023  \nZ. Zhang, A. Zhang, M. Li, and A. J. Smola Automatic Chain of Thought Prompting in Large Language Models In Proceedings of the International Conference on Learning Representations (ICLR), 2023  \nT. Yang, Y. Zhu, Y. Xie, A. Zhang, C. Chen, and M. Li AIM: Adapting Image Models for Efficient Video Understanding In Proceedings of the International Conference on Learning Representations (ICLR), 2023\nA. Zhang, Y. Tay, S. Zhang, A. Chan, A. T. Luu, S. C. Hui, and J. Fu Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters In Proceedings of the International Conference on Learning Representations (ICLR, Outstanding Paper Award), 2021"
   }
 ]
