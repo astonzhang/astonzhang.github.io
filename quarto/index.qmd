@@ -44,6 +44,11 @@ He earned his Ph.D. from the University of Illinois Urbana-Champaign.
 
 ## Papers ([All](papers.qmd))
 
+* R. Bansal, **A. Zhang**, R. Tiwari, L. Madaan, S. Duvvuri, D. Khatri, D. Brandfonbrener, D. Alvarez-Melis, P. Bhargava, M. Kale, and S. Jelassi<br>
+<a href="https://arxiv.org/abs/2512.13898" target="_blank">Let's (NoT) Just Put Things in Context: Test-Time Training for Long-Context LLMs</a><br>
+*Lightweight context-specific training is a better use of inference compute for long context.* In *arXiv*, 2026<br>
+
+
 * M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten<br>
 <a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2025<br>
