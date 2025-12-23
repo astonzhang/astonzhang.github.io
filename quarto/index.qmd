@@ -40,8 +40,8 @@ He earned his Ph.D. from the University of Illinois Urbana-Champaign.
 	* Adopted at 500 universities from 70 countries
 	* <a href="https://raw.githubusercontent.com/d2l-ai/d2l-zh/master/static/frontpage/_images/sales/jd-2023020304-all-ai-zh-4.png" target="_blank">Best seller</a> in China 
 	<br>
-	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="120" height="25" title="GitHub"></iframe>
-	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="120" height="25" title="GitHub"></iframe>
+	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-en&type=star&count=true" frameborder="0" scrolling="0" width="120" height="20" title="GitHub"></iframe>
+	<iframe src="https://ghbtns.com/github-btn.html?user=d2l-ai&repo=d2l-zh&type=star&count=true" frameborder="0" scrolling="0" width="120" height="20" title="GitHub"></iframe>
 
 
 

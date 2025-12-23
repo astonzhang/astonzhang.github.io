@@ -92,6 +92,11 @@ h2 a {
   font-weight: 400; /* or 'normal' */
 }
 
+/* Homepage "about" block spacing (green in devtools = margin) */
+.quarto-about-trestles {
+  margin-top: 0rem !important;   /* reduce upper green margin */
+  margin-bottom: 2rem !important;   /* increase bottom green margin */
+}
 
 
 
