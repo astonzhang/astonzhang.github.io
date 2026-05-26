@@ -6,6 +6,12 @@ title: "Papers"
 <a href="https://arxiv.org/abs/2512.13898" target="_blank">Let's (NoT) Just Put Things in Context: Test-Time Training for Long-Context LLMs</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2026<br>
 
+
+* Z. Wu, P. Cheng, Z. Wu, Y. Guo, T. Ju, **A. Zhang**, G. Liu, and Z. Zhang<br>
+<a href="./papers.html" target="_blank">Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents</a><br>
+In *IEEE Transactions on Audio, Speech and Language Processing*, 2026<br>
+
+
 * M. Zhong\*, **A. Zhang**\*, X. Wang, R. Hou, W. Xiong, C. Zhu, Z. Chen, L. Tan, C. Bi, M. Lewis, S. Popuri, S. Narang, M. Kambadur, D. Mahajan, S. Edunov, J. Han, and L. van der Maaten (\*equal contribution)<br>
 <a href="https://arxiv.org/abs/2409.19951" target="_blank">Law of the Weakest Link: Cross Capabilities of Large Language Models</a><br>
 In *Proceedings of the International Conference on Learning Representations* (**ICLR**), 2025<br>
