@@ -15,15 +15,12 @@ about:
 
 :::{#az-heading}
 
-**Aston Zhang** works on pre-training at <a href="https://openai.com" target="_blank">OpenAI</a>. 
+**Aston Zhang** works on pre-training at <a href="https://openai.com" target="_blank">OpenAI</a> and is a core contributor to the flagship GPT-5.x series, including as the directly responsible individual for <a href="img/artificial-index-gpt-5.4-nano.png" target="_blank">GPT 5.4 Nano</a>.
 His work has been recognized with the <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab" target="_blank">ICLR Outstanding Paper Award</a>,
 the ACM UbiComp Distinguished Paper Award,
 and an ACM SenSys Best Paper Award nomination.
 His textbook, "<a href="https://d2l.ai" target="_blank">Dive into Deep Learning</a>," 
 has been <a href="https://d2l.ai/_images/map.png" target="_blank">adopted worldwide</a>.
-He earned his Ph.D. from the University of Illinois Urbana-Champaign.
-
-
 
 :::
 
